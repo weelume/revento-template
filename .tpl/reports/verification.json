@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T10:57:54.727Z",
+  "checkedAt": "2026-11-03T14:52:52.948Z",
   "sourceCommit": null,
-  "sourceDigest": "c82f647a9fef736c1ba05be3bd9e4578fc82d12e5291f1a539238f8e7b6347c9",
+  "sourceDigest": "18719e38caa8aa718448434c65b595e145efffce8971a6a0c7fb78aaa7cdd9ce",
   "environment": {
     "platform": "linux (local WSL; Linux filesystem)",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T10:52:59.659Z",
-      "finishedAt": "2026-11-03T10:53:01.009Z"
+      "startedAt": "2026-11-03T14:50:19.532Z",
+      "finishedAt": "2026-11-03T14:50:21.395Z"
     },
     {
       "id": "typecheck",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T10:53:01.015Z",
-      "finishedAt": "2026-11-03T10:53:03.497Z"
+      "startedAt": "2026-11-03T14:50:21.402Z",
+      "finishedAt": "2026-11-03T14:50:24.251Z"
     },
     {
       "id": "lint",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T10:53:03.501Z",
-      "finishedAt": "2026-11-03T10:53:06.425Z"
+      "startedAt": "2026-11-03T14:50:24.255Z",
+      "finishedAt": "2026-11-03T14:50:27.928Z"
     },
     {
       "id": "test",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T10:53:06.429Z",
-      "finishedAt": "2026-11-03T10:53:07.301Z"
+      "startedAt": "2026-11-03T14:50:27.932Z",
+      "finishedAt": "2026-11-03T14:50:28.928Z"
     },
     {
       "id": "build",
@@ -77,15 +77,15 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T10:53:07.306Z",
-      "finishedAt": "2026-11-03T10:53:30.086Z"
+      "startedAt": "2026-11-03T14:50:28.933Z",
+      "finishedAt": "2026-11-03T14:50:48.798Z"
     }
   ],
   "services": [
     {
       "id": "web",
       "status": "passed",
-      "checkedAt": "2026-11-03T10:53:31.808Z",
+      "checkedAt": "2026-11-03T14:50:50.092Z",
       "stopped": true
     }
   ],
@@ -95,6 +95,7 @@
     "原站八个案例共用的 LuxeGlow 标题与正文保留；不同客户、行业、周期、图片和统计分别维护。政策按本地演示实际行为调整。",
     "字体按规范使用 MiSans/Poppins，与原站窄体字体存在有意差异；字号与玻璃卡片按模板规范适配。素材设计权利未取得商业再分发授权，listed=false。",
     "原站三端精确时长与缓动、鼠标悬停全部状态、实际拖拽回弹、系统减少动态效果和宿主设备框滚动条尚未全部逐项验证，motion.json 保持 incomplete。",
-    "未发布源码 ZIP，未部署；开发预览仍在本地3063运行，生产候选3064已停止。"
+    "未发布源码 ZIP，未部署；开发预览仍在本地3063运行，生产候选3064已停止。",
+    "交互回归：实际指针拖拽、连续分页、短拖回弹或循环焦点暂停的证据见interaction-regressions.json。motion.json仍为incomplete，未用这些局部通过替代全部原站三端精确曲线与系统减少动态效果验收。"
   ]
 }

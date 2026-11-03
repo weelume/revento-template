@@ -345,6 +345,13 @@
           "localizedTitles": {
             "en": "Privacy Policy"
           }
+        },
+        {
+          "slug": "404",
+          "title": "404 页面",
+          "localizedTitles": {
+            "en": "Page not found"
+          }
         }
       ]
     }

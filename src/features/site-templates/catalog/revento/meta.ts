@@ -32,5 +32,6 @@ export const reventoTemplate:SiteTemplate={id:'revento',name:'Revento · 创意�
 {slug:"testimonial",title:"客户评价",localizedTitles:{en:"Reviews"},load:()=>import('./pages/Reviews')},
 {slug:"how-we-work",title:"工作流程",localizedTitles:{en:"How We Work"},load:()=>import('./pages/Process')},
 {slug:"contact",title:"联系",localizedTitles:{en:"Contact"},load:()=>import('./pages/Contact')},
-{slug:"privacy-policy",title:"隐私政策",localizedTitles:{en:"Privacy Policy"},load:()=>import('./pages/Privacy')}
+{slug:"privacy-policy",title:"隐私政策",localizedTitles:{en:"Privacy Policy"},load:()=>import('./pages/Privacy')},
+{slug:"404",title:"404 页面",localizedTitles:{en:"Page not found"},load:()=>import('./pages/NotFound')}
 ]}]}

@@ -15,3 +15,5 @@ pnpm typecheck、pnpm lint、pnpm test、pnpm build。协议检查：pnpm tpl:ch
 ## 交付与许可
 
 源码仓库地址见 template.json。pnpm bundle 生成不含依赖、缓存或秘密的固定运行包，要求源码工作树已提交并干净，且在本地 Linux 文件系统执行。不要提交 node_modules、.next、日志、真实配置或私密资料。源码、图片、字体、工具的权利分别说明；见 docs/LICENSE.md。阅读本文件不触发安装、发送或发布。
+
+原站显式 /404 入口已注册，并复用 NotFound 页面；独立站 /404 与未知路径返回真实 HTTP 404。共享包消费方可用此入口预览模板错误页，消费方自身路由决定其 HTTP 状态。页面清单为 33 个业务页与一项错误页展示入口，均支持双语。

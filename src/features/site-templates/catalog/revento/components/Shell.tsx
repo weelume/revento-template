@@ -13,7 +13,7 @@ import '../theme.css'
 const Locale=createContext<{locale:'zh'|'en';basePath:string}>({locale:'zh',basePath:''})
 export function useRevento(){const context=useContext(Locale),host=useReventoHost();return {...context,t:(copy:Copy)=>copy[context.locale].replaceAll('{{brand}}',(host.brandName??brand.name)[context.locale]),href:(slug='')=>`${context.basePath}${slug?'/'+slug:''}`||'/'}}
 export function Brand({large=false}:{large?:boolean}) {const{t}=useRevento(),host=useReventoHost();return host.logo&&!large?<><img className="rv-brand-logo" src={host.logo} alt=""/>{t(host.brandName??brand.name)}</>:<>{t(host.brandName??brand.name)}</>}
-const nav=[['',text('首页','Home')],['about',text('关于我们','About')],['service',text('服务','Services')],['work',text('作品','Work')],['pricing',text('价格方案','Pricing')],['team',text('团队','Team')],['how-we-work',text('工作流程','How We Work')],['testimonial',text('客户评价','Reviews')],['blog',text('博客','Blog')],['contact',text('联系','Contact')],['privacy-policy',text('隐私政策','Privacy Policy')]] as const
+const nav=[['',text('首页','Home')],['about',text('关于我们','About')],['service',text('服务','Services')],['work',text('作品','Work')],['pricing',text('价格方案','Pricing')],['team',text('团队','Team')],['how-we-work',text('工作流程','How We Work')],['testimonial',text('客户评价','Reviews')],['blog',text('博客','Blog')],['contact',text('联系','Contact')],['privacy-policy',text('隐私政策','Privacy Policy')],['404',text('404 页面','404 Page')]] as const
 function Header(){
   const{t,locale,basePath,href}=useRevento(),path=usePathname(),router=useRouter(),[open,setOpen]=useState(false),menuRef=useRef<HTMLDivElement>(null),buttonRef=useRef<HTMLButtonElement>(null)
   const langPath=alternateLocaleHref(path,basePath,locale)

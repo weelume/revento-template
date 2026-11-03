@@ -1,0 +1,142 @@
+{
+  "checkedAt": "2026-11-03T14:52:52.945Z",
+  "cause": "浏览器原生图片拖动抢占手势，且分页偏移直接受零点拖动约束，释放后会从接近零点长距离回跳。",
+  "fix": "独立手势层只处理小位移与回弹，内容层维持分页偏移；屏蔽拖动后的指针点击并保留下一次普通点击。",
+  "drags": [
+    {
+      "device": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "states": [
+        {
+          "moving": {
+            "base": "matrix(1, 0, 0, 1, -1326, 0)",
+            "counter": "2 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -69.3352, 0)"
+          },
+          "final": {
+            "base": "matrix(1, 0, 0, 1, -1768, 0)",
+            "counter": "2 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -1.34725, 0)",
+            "url": "http://localhost:3063/"
+          }
+        },
+        {
+          "moving": {
+            "base": "matrix(1, 0, 0, 1, -1768, 0)",
+            "counter": "3 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -69.1766, 0)"
+          },
+          "final": {
+            "base": "matrix(1, 0, 0, 1, -2210, 0)",
+            "counter": "3 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -1.21461, 0)",
+            "url": "http://localhost:3063/"
+          }
+        }
+      ],
+      "small": {
+        "base": "matrix(1, 0, 0, 1, -2210, 0)",
+        "counter": "3 / 3",
+        "gesture": "none",
+        "url": "http://localhost:3063/"
+      },
+      "genuineClick": {
+        "href": "/work/luxurylaunch-campaign",
+        "url": "http://localhost:3063/work/luxurylaunch-campaign"
+      }
+    },
+    {
+      "device": "tablet",
+      "viewport": [
+        834,
+        1180
+      ],
+      "states": [
+        {
+          "moving": {
+            "base": "matrix(1, 0, 0, 1, -1159.41, 0)",
+            "counter": "2 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -39.8627, 0)"
+          },
+          "final": {
+            "base": "matrix(1, 0, 0, 1, -1545.79, 0)",
+            "counter": "2 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -1.53119, 0)",
+            "url": "http://localhost:3063/"
+          }
+        },
+        {
+          "moving": {
+            "base": "matrix(1, 0, 0, 1, -1545.88, 0)",
+            "counter": "3 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -40.0191, 0)"
+          },
+          "final": {
+            "base": "matrix(1, 0, 0, 1, -1932.18, 0)",
+            "counter": "3 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -1.68825, 0)",
+            "url": "http://localhost:3063/"
+          }
+        }
+      ],
+      "small": {
+        "base": "matrix(1, 0, 0, 1, -1932.34, 0)",
+        "counter": "3 / 3",
+        "gesture": "none",
+        "url": "http://localhost:3063/"
+      },
+      "genuineClick": {
+        "href": "/work/luxurylaunch-campaign",
+        "url": "http://localhost:3063/work/luxurylaunch-campaign"
+      }
+    },
+    {
+      "device": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "states": [
+        {
+          "moving": {
+            "base": "matrix(1, 0, 0, 1, -1092, 0)",
+            "counter": "2 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -18.0979, 0)"
+          },
+          "final": {
+            "base": "matrix(1, 0, 0, 1, -1456, 0)",
+            "counter": "2 / 3",
+            "gesture": "none",
+            "url": "http://localhost:3063/"
+          }
+        },
+        {
+          "moving": {
+            "base": "matrix(1, 0, 0, 1, -1456, 0)",
+            "counter": "3 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -18.0598, 0)"
+          },
+          "final": {
+            "base": "matrix(1, 0, 0, 1, -1820, 0)",
+            "counter": "3 / 3",
+            "gesture": "none",
+            "url": "http://localhost:3063/"
+          }
+        }
+      ],
+      "small": {
+        "base": "matrix(1, 0, 0, 1, -1820, 0)",
+        "counter": "3 / 3",
+        "gesture": "none",
+        "url": "http://localhost:3063/"
+      },
+      "genuineClick": {
+        "href": "/work/luxurylaunch-campaign",
+        "url": "http://localhost:3063/work/luxurylaunch-campaign"
+      }
+    }
+  ]
+}
