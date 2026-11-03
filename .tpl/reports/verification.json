@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T14:52:52.948Z",
+  "checkedAt": "2026-11-03T17:10:33.557Z",
   "sourceCommit": null,
-  "sourceDigest": "18719e38caa8aa718448434c65b595e145efffce8971a6a0c7fb78aaa7cdd9ce",
+  "sourceDigest": "107e9a95c653a608256b842d8a75f229dd0f96507407b8993f8bd40463d0410f",
   "environment": {
     "platform": "linux (local WSL; Linux filesystem)",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:50:19.532Z",
-      "finishedAt": "2026-11-03T14:50:21.395Z"
+      "startedAt": "2026-11-03T17:07:50.810Z",
+      "finishedAt": "2026-11-03T17:07:51.944Z"
     },
     {
       "id": "typecheck",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:50:21.402Z",
-      "finishedAt": "2026-11-03T14:50:24.251Z"
+      "startedAt": "2026-11-03T17:07:51.949Z",
+      "finishedAt": "2026-11-03T17:07:54.491Z"
     },
     {
       "id": "lint",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:50:24.255Z",
-      "finishedAt": "2026-11-03T14:50:27.928Z"
+      "startedAt": "2026-11-03T17:07:54.494Z",
+      "finishedAt": "2026-11-03T17:07:57.296Z"
     },
     {
       "id": "test",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:50:27.932Z",
-      "finishedAt": "2026-11-03T14:50:28.928Z"
+      "startedAt": "2026-11-03T17:07:57.299Z",
+      "finishedAt": "2026-11-03T17:07:58.012Z"
     },
     {
       "id": "build",
@@ -77,15 +77,15 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:50:28.933Z",
-      "finishedAt": "2026-11-03T14:50:48.798Z"
+      "startedAt": "2026-11-03T17:07:58.015Z",
+      "finishedAt": "2026-11-03T17:08:18.623Z"
     }
   ],
   "services": [
     {
       "id": "web",
       "status": "passed",
-      "checkedAt": "2026-11-03T14:50:50.092Z",
+      "checkedAt": "2026-11-03T17:08:19.765Z",
       "stopped": true
     }
   ],
@@ -96,6 +96,7 @@
     "字体按规范使用 MiSans/Poppins，与原站窄体字体存在有意差异；字号与玻璃卡片按模板规范适配。素材设计权利未取得商业再分发授权，listed=false。",
     "原站三端精确时长与缓动、鼠标悬停全部状态、实际拖拽回弹、系统减少动态效果和宿主设备框滚动条尚未全部逐项验证，motion.json 保持 incomplete。",
     "未发布源码 ZIP，未部署；开发预览仍在本地3063运行，生产候选3064已停止。",
-    "交互回归：实际指针拖拽、连续分页、短拖回弹或循环焦点暂停的证据见interaction-regressions.json。motion.json仍为incomplete，未用这些局部通过替代全部原站三端精确曲线与系统减少动态效果验收。"
+    "交互回归：实际指针拖拽、连续分页、短拖回弹或循环焦点暂停的证据见interaction-regressions.json。motion.json仍为incomplete，未用这些局部通过替代全部原站三端精确曲线与系统减少动态效果验收。",
+    "1.0.1 本轮修正运动机制，详见motion-recheck.json；技术检查通过不代表全部原站动效逐帧验收完成。"
   ]
 }

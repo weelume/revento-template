@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-11-03T17:10:33.557Z",
+  "hero": [
+    {
+      "kind": "reference",
+      "src": "YnrgvKUGMeimEqrFeLCn9dudPjg.png",
+      "samples": 45,
+      "degreePerSecond": 35.9251574000973,
+      "expected": 36,
+      "passed": true
+    },
+    {
+      "kind": "reference",
+      "src": "3UclJG1nnrRt1fIFjY95idlaaWc.svg",
+      "samples": 45,
+      "degreePerSecond": -40.01064925394581,
+      "expected": -40,
+      "passed": true
+    },
+    {
+      "kind": "local",
+      "src": "YnrgvKUGMeimEqrFeLCn9dudPjg.png",
+      "samples": 169,
+      "degreePerSecond": 35.99620561991629,
+      "expected": 36,
+      "passed": true
+    },
+    {
+      "kind": "local",
+      "src": "3UclJG1nnrRt1fIFjY95idlaaWc.svg",
+      "samples": 169,
+      "degreePerSecond": -39.9957840221292,
+      "expected": -40,
+      "passed": true
+    }
+  ]
+}

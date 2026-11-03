@@ -13,6 +13,53 @@
       "height": 1000,
       "width": 1440
     },
+    "pendingLazy": [
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+        "top": 5961.11474609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+        "top": 5961.11474609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+        "top": 5961.11474609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+        "top": 5961.11474609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+        "top": 5961.11474609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+        "top": 5961.11474609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+        "top": 5961.11474609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+        "top": 5961.11474609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+        "top": 5961.11474609375
+      }
+    ],
     "path": "assets/desktop-home.webp",
     "width": 1430,
     "height": 993
@@ -85,6 +132,53 @@
       "height": 1180,
       "width": 834
     },
+    "pendingLazy": [
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+        "top": 5966.17724609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+        "top": 5966.17724609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+        "top": 5966.17724609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+        "top": 5966.17724609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+        "top": 5966.17724609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+        "top": 5966.17724609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+        "top": 5966.17724609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+        "top": 5966.17724609375
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+        "top": 5966.17724609375
+      }
+    ],
     "path": "assets/tablet-home.webp",
     "width": 824,
     "height": 1166
@@ -157,6 +251,53 @@
       "height": 844,
       "width": 390
     },
+    "pendingLazy": [
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+        "top": 5926.8544921875
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+        "top": 5926.8544921875
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+        "top": 5926.8544921875
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+        "top": 5926.8544921875
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+        "top": 5926.8544921875
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+        "top": 5926.8544921875
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+        "top": 5926.8544921875
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+        "top": 5926.8544921875
+      },
+      {
+        "lazy": "lazy",
+        "src": "http://localhost:3063/templates/revento/assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+        "top": 5926.8544921875
+      }
+    ],
     "path": "assets/mobile-home.webp",
     "width": 380,
     "height": 822
