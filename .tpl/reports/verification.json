@@ -1,0 +1,100 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-11-03T10:57:54.727Z",
+  "sourceCommit": null,
+  "sourceDigest": "c82f647a9fef736c1ba05be3bd9e4578fc82d12e5291f1a539238f8e7b6347c9",
+  "environment": {
+    "platform": "linux (local WSL; Linux filesystem)",
+    "arch": "x64",
+    "node": "24.16.0",
+    "packageManager": "pnpm@9.15.4",
+    "cleanDirectory": false,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "install",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "install",
+        "--frozen-lockfile"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T10:52:59.659Z",
+      "finishedAt": "2026-11-03T10:53:01.009Z"
+    },
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T10:53:01.015Z",
+      "finishedAt": "2026-11-03T10:53:03.497Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T10:53:03.501Z",
+      "finishedAt": "2026-11-03T10:53:06.425Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T10:53:06.429Z",
+      "finishedAt": "2026-11-03T10:53:07.301Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T10:53:07.306Z",
+      "finishedAt": "2026-11-03T10:53:30.086Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "checkedAt": "2026-11-03T10:53:31.808Z",
+      "stopped": true
+    }
+  ],
+  "limitations": [
+    "本报告的 passed 仅指安装、类型、Lint、路由测试、构建、生产候选 HTTP/素材检查；完整动效的对照状态见 motion.json，不以静态截图或 HTTP 代替。",
+    "原站全部页面已读取，包括加载更多后才出现的四个作品详情；共33个页面、八项作品、八篇文章、九名成员、十条评价。服务错误水管维修正文按用户确认改为双语营销服务正文。",
+    "原站八个案例共用的 LuxeGlow 标题与正文保留；不同客户、行业、周期、图片和统计分别维护。政策按本地演示实际行为调整。",
+    "字体按规范使用 MiSans/Poppins，与原站窄体字体存在有意差异；字号与玻璃卡片按模板规范适配。素材设计权利未取得商业再分发授权，listed=false。",
+    "原站三端精确时长与缓动、鼠标悬停全部状态、实际拖拽回弹、系统减少动态效果和宿主设备框滚动条尚未全部逐项验证，motion.json 保持 incomplete。",
+    "未发布源码 ZIP，未部署；开发预览仍在本地3063运行，生产候选3064已停止。"
+  ]
+}

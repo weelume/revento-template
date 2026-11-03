@@ -1,0 +1,182 @@
+{
+  "search-engine-optimization": [
+    {
+      "zh": "检查抓取、索引、页面性能和当前自然流量，区分技术障碍与内容机会。用审计结果建立优先级，明确哪些问题需要先处理。",
+      "en": "Review crawling, indexing, page performance, and current organic traffic. Separate technical obstacles from content opportunities and prioritize the work from the audit findings."
+    },
+    {
+      "zh": "围绕产品、服务和受众问题研究搜索意图，结合竞争页面与现有表现，建立主题、关键词及对应页面的映射。",
+      "en": "Research search intent around products, services, and audience questions. Use competing pages and current performance to map topics and keywords to the right pages."
+    },
+    {
+      "zh": "将研究结果转化为清晰的页面与内容路线，确定重要主题、内部链接关系和阶段目标，避免无目标地增加页面。",
+      "en": "Turn research into a clear page and content roadmap. Define priority topics, internal linking, and stage goals rather than adding pages without a purpose."
+    },
+    {
+      "zh": "改善页面标题、信息层级、链接与必要的结构化信息，并处理影响抓取与阅读的技术问题。每次调整都保留可验证的依据。",
+      "en": "Improve page titles, information hierarchy, linking, and relevant structured information. Address technical issues that affect crawling and reading, with evidence for each change."
+    },
+    {
+      "zh": "根据真实需求更新内容，补充清晰的解释、示例和相关页面连接，逐步建立主题完整度与品牌可信度。",
+      "en": "Update content around real needs with clear explanations, examples, and links to relevant pages. Build topic coverage and brand credibility over time."
+    },
+    {
+      "zh": "结合搜索表现、有效访问和关键行为观察变化，区分曝光增加与实际业务价值，为下一步优化提供依据。",
+      "en": "Review search performance, qualified visits, and key actions. Distinguish increased visibility from business value and use the findings to guide further improvements."
+    },
+    {
+      "zh": "按合作范围持续检查重要页面、内容更新和技术变化。保留改动记录，及时验证新的问题与优化结果。",
+      "en": "Review important pages, content updates, and technical changes within the agreed scope. Keep a change record and validate new issues and optimization results."
+    }
+  ],
+  "content-marketing": [
+    {
+      "zh": "梳理已有文章、页面与素材，识别重复、过时和缺失内容，并了解哪些主题真正帮助受众完成目标。",
+      "en": "Review existing articles, pages, and assets. Identify repeated, outdated, and missing content and understand which topics help audiences achieve their goals."
+    },
+    {
+      "zh": "通过受众反馈、搜索问题和业务场景，了解人们需要什么信息，建立与品牌能力相关的主题方向。",
+      "en": "Use audience feedback, search questions, and business situations to understand information needs and define topics related to the brand’s expertise."
+    },
+    {
+      "zh": "明确内容目标、表达方式、发布顺序和编辑规范，让不同内容共同传达一致的品牌价值。",
+      "en": "Define content goals, voice, publishing sequence, and editorial standards so different pieces communicate a consistent brand value."
+    },
+    {
+      "zh": "将研究转化为清晰的文章、视觉与专题页面，关注事实依据、可读性和品牌语气，减少重复与空泛表达。",
+      "en": "Turn research into clear articles, visuals, and topic pages. Focus on evidence, readability, and brand voice while reducing repetition and vague claims."
+    },
+    {
+      "zh": "根据内容特点选择适合的站内、社交或邮件触点，调整呈现方式，并让受众能够自然地进入下一步。",
+      "en": "Choose suitable website, social, or email touchpoints for each piece. Adapt its presentation and provide a natural next step for the audience."
+    },
+    {
+      "zh": "观察阅读、参与、有效访问与关键行为，理解内容在受众旅程中的作用，而不只关注浏览量。",
+      "en": "Review reading, engagement, qualified visits, and key actions to understand the role of content in the audience journey rather than focusing only on views."
+    },
+    {
+      "zh": "根据反馈更新内容、补充示例和调整结构。维护重要主题之间的联系，保持内容准确、清晰和有用。",
+      "en": "Update content, add examples, and improve structure from feedback. Maintain connections between important topics and keep the material accurate, clear, and useful."
+    }
+  ],
+  "social-media-marketing": [
+    {
+      "zh": "梳理各平台的内容、受众和互动表现，了解品牌表达是否一致，以及哪些内容已经产生有效连接。",
+      "en": "Review content, audiences, and engagement across platforms. Assess consistency and identify the content that already creates meaningful connections."
+    },
+    {
+      "zh": "结合平台使用方式与受众兴趣，确定适合的渠道、内容形式和沟通语气，避免在所有平台重复同一表达。",
+      "en": "Use platform behavior and audience interests to select channels, formats, and voice rather than repeating the same message everywhere."
+    },
+    {
+      "zh": "围绕品牌目标安排内容主题、活动与发布节奏，为创意制作和团队协作建立清晰计划。",
+      "en": "Plan themes, campaigns, and publishing rhythm around brand goals, with clear direction for creative production and team collaboration."
+    },
+    {
+      "zh": "制作与平台场景相符的文字、图像或视频内容，保持视觉识别，并为不同设备检查阅读和操作体验。",
+      "en": "Produce copy, images, or video suited to each platform. Preserve visual identity and check reading and interaction on different devices."
+    },
+    {
+      "zh": "关注评论、问题与受众反馈，以清晰一致的方式参与交流，让内容发布延伸为持续的社群关系。",
+      "en": "Follow comments, questions, and audience feedback. Participate consistently so publishing becomes an ongoing community relationship."
+    },
+    {
+      "zh": "通过触达、互动、有效访问与关键行动整理报告，说明哪些内容有效、哪些需要调整。",
+      "en": "Report reach, engagement, qualified visits, and key actions to explain which content works and what needs to change."
+    },
+    {
+      "zh": "比较不同主题和呈现方式，在明确范围内测试新想法，并将有效经验反馈到后续内容规划。",
+      "en": "Compare topics and presentation styles, test new ideas within a defined scope, and feed useful findings into future content planning."
+    }
+  ],
+  "email-marketing": [
+    {
+      "zh": "梳理订阅来源、受众关系和既有邮件，了解内容相关性、到达情况与主要业务触点。",
+      "en": "Review subscriber sources, audience relationships, and existing emails to understand relevance, delivery, and key business touchpoints."
+    },
+    {
+      "zh": "根据兴趣、关系阶段和明确目标进行分层，让不同受众收到更相关的信息，避免无差别重复发送。",
+      "en": "Segment by interests, relationship stage, and clear goals so each audience receives relevant information rather than repeated undifferentiated messages."
+    },
+    {
+      "zh": "将欢迎、内容分享、产品信息与后续沟通串联成清晰旅程，明确每封邮件希望帮助受众完成的下一步。",
+      "en": "Connect welcome messages, content, product information, and follow-up into a clear journey, defining the next step each email supports."
+    },
+    {
+      "zh": "用简洁的主题、清晰的内容层级与适合手机阅读的布局传达价值，保持品牌语气和视觉一致。",
+      "en": "Communicate value through concise subjects, clear hierarchy, and layouts suited to mobile reading while keeping brand voice and visuals consistent."
+    },
+    {
+      "zh": "检查内容、链接、不同设备的显示与发送安排，在约定范围内比较文案和呈现方式。",
+      "en": "Check content, links, device rendering, and campaign arrangements, comparing copy and presentation within the agreed scope."
+    },
+    {
+      "zh": "结合有效互动、访问和转化行为观察表现，避免用单一打开率判断全部价值。",
+      "en": "Review meaningful engagement, visits, and conversions rather than judging all value from a single open-rate figure."
+    },
+    {
+      "zh": "根据反馈调整分层、内容和旅程，定期维护信息与链接，让邮件持续保持相关和清晰。",
+      "en": "Refine segments, content, and journeys from feedback. Maintain information and links so emails remain relevant and clear."
+    }
+  ],
+  "influencer-marketing": [
+    {
+      "zh": "明确品牌定位、目标受众与合作目的，找出适合通过创作者故事表达的价值。",
+      "en": "Define positioning, audience, and partnership goals, identifying the value that creator stories can communicate effectively."
+    },
+    {
+      "zh": "结合内容风格、受众相关性和互动质量评估创作者，避免仅以关注人数决定合作。",
+      "en": "Assess creators through content style, audience relevance, and engagement quality rather than follower counts alone."
+    },
+    {
+      "zh": "确定合作主题、内容范围、时间安排与成果衡量方式，让品牌与创作者对目标形成共同理解。",
+      "en": "Agree on themes, content scope, timing, and measures of success so the brand and creator share a clear understanding of the goals."
+    },
+    {
+      "zh": "提供清晰的背景、核心信息与素材，在保持品牌一致性的同时，为创作者保留自然的表达空间。",
+      "en": "Provide context, key messages, and assets while leaving room for natural creator expression within a consistent brand direction."
+    },
+    {
+      "zh": "检查事实、品牌信息和发布呈现，协调双方反馈，使内容在约定的平台和范围内落地。",
+      "en": "Review facts, brand information, and presentation, coordinating feedback so content is delivered on the agreed platforms and within scope."
+    },
+    {
+      "zh": "结合触达、有效互动、访问与相关行为回顾成果，区分可见度与实际业务影响。",
+      "en": "Review reach, meaningful engagement, visits, and relevant actions, distinguishing visibility from business impact."
+    },
+    {
+      "zh": "总结合作经验、维护沟通并探索适合的后续主题，将一次活动逐步发展为有价值的长期关系。",
+      "en": "Summarize lessons, maintain communication, and explore suitable future topics to develop valuable long-term relationships."
+    }
+  ],
+  "analytics-and-reporting": [
+    {
+      "zh": "梳理业务目标、现有数据来源和报告使用方式，识别缺失、重复与含义不一致的指标。",
+      "en": "Review business goals, data sources, and reporting use. Identify missing, repeated, and inconsistently defined metrics."
+    },
+    {
+      "zh": "将关键问题转化为明确的指标与事件定义，说明计算方式、使用边界和需要检查的数据路径。",
+      "en": "Translate key questions into clear metrics and event definitions, explaining calculations, boundaries, and the data paths that need checking."
+    },
+    {
+      "zh": "核对数据来源、事件和字段的一致性，识别重复记录或缺失信息，为后续分析建立可信基础。",
+      "en": "Validate sources, events, and field consistency. Identify duplicate records and missing information to establish a reliable analytical foundation."
+    },
+    {
+      "zh": "围绕实际决策设计清晰的仪表板和报告，展示趋势、变化及必要背景，避免堆砌无关图表。",
+      "en": "Design clear dashboards and reports around real decisions, showing trends, changes, and context rather than unrelated charts."
+    },
+    {
+      "zh": "结合渠道、内容和关键行为分析表现，明确观察到的关联与尚需验证的解释。",
+      "en": "Analyze performance across channels, content, and key actions, separating observed associations from explanations that need validation."
+    },
+    {
+      "zh": "将发现转为可执行的改进建议，明确验证方法和观察范围，帮助团队据此调整行动。",
+      "en": "Turn findings into actionable recommendations with clear validation methods and observation scope so teams can adjust their work."
+    },
+    {
+      "zh": "持续检查重要指标与数据变化，在业务流程调整时同步维护定义和报告，保留可追溯记录。",
+      "en": "Review important metrics and data changes, maintain definitions and reports as business processes evolve, and keep a traceable record."
+    }
+  ]
+}

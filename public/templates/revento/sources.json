@@ -1,0 +1,901 @@
+{
+  "reference": "https://revento.framer.website/",
+  "assets": [
+    {
+      "file": "assets/SYs2tkN9cLpCnAXQzEAAV0RdwM.svg",
+      "url": "https://framerusercontent.com/images/SYs2tkN9cLpCnAXQzEAAV0RdwM.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "543ab928f5739bc3cbc7f8edfe4c242b48b8ae6ef2fb813061ed9c3b584530f7"
+    },
+    {
+      "file": "assets/HGjIsUhP6fBfBd2ihwqJwfx0DS0.svg",
+      "url": "https://framerusercontent.com/images/HGjIsUhP6fBfBd2ihwqJwfx0DS0.svg",
+      "sourcePage": "https://revento.framer.website/404",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d73a42a627c7b3f8e7931e1118fbc53a040cc1c5ecd7738e20657ef35ed0801b"
+    },
+    {
+      "file": "assets/Bt1vdMJBmlid8RSPtoTWJRcU.svg",
+      "url": "https://framerusercontent.com/images/Bt1vdMJBmlid8RSPtoTWJRcU.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "0106a0b54c2444a2760f9c815b03538cff4c87b667de880646c6d49c88c882f6"
+    },
+    {
+      "file": "assets/n3zeduqnRmmEguYbtQNwqQz7GY.png",
+      "url": "https://framerusercontent.com/images/n3zeduqnRmmEguYbtQNwqQz7GY.png",
+      "sourcePage": "https://revento.framer.website/404",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "46a2bfd495ee327603a6ff1e4eb1c7cfcebf1691b19c7dfdcd4edc32dfb66373"
+    },
+    {
+      "file": "assets/IbxHyIcWmYxu05Xf2AUjE4qzdE.svg",
+      "url": "https://framerusercontent.com/images/IbxHyIcWmYxu05Xf2AUjE4qzdE.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "04669e8e180cc26f76d2f78d6edcaed944321a15ea04b6bdce0cc8ef8ec220d0"
+    },
+    {
+      "file": "assets/iTKsr8vVyJigYy47IWL0hiSE4n4.png",
+      "url": "https://framerusercontent.com/images/iTKsr8vVyJigYy47IWL0hiSE4n4.png",
+      "sourcePage": "https://revento.framer.website/404",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "23f38b27154bc43fb0524a7bc85b656c11560402033b16d4e122e172fa725e30"
+    },
+    {
+      "file": "assets/i6k5InXVuu24cuLoN6MNWhPYWIg.png",
+      "url": "https://framerusercontent.com/images/i6k5InXVuu24cuLoN6MNWhPYWIg.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "bfd50d2dd74b68a6f53b82725ae378f606615e0b807742f298a1848d0284cbb8"
+    },
+    {
+      "file": "assets/48K0bZ9Wpm8Ib7nETZ7zwLL0lUQ.png",
+      "url": "https://framerusercontent.com/images/48K0bZ9Wpm8Ib7nETZ7zwLL0lUQ.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "72a44d6210e72a21228c0875b4107b59a86ac65c603c850dd0977fc402c9f347"
+    },
+    {
+      "file": "assets/UjCwAEYJU4MvzSB8Wsy8rJzWzlk.png",
+      "url": "https://framerusercontent.com/images/UjCwAEYJU4MvzSB8Wsy8rJzWzlk.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "52e01b0f98c9b2174c8d2765961047e48d278b6339fc3ab7e949af53e19342d4"
+    },
+    {
+      "file": "assets/HaTeCnedqptj5oZx1ZHkM2pcbZg.svg",
+      "url": "https://framerusercontent.com/images/HaTeCnedqptj5oZx1ZHkM2pcbZg.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "7cb70afa2accc4da0b3753eb76465ce98ec5b1d4558d77b4baba0f31aa53508a"
+    },
+    {
+      "file": "assets/7os4g4ruRwOonodXRETIWnxw1M.svg",
+      "url": "https://framerusercontent.com/images/7os4g4ruRwOonodXRETIWnxw1M.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "63cab0cee2caf5949d00cb03e143f56de5b9e5c7ab6eca663ba1e426d60adebf"
+    },
+    {
+      "file": "assets/TK6PAMZN32ze4HffAHGSjINGCE.svg",
+      "url": "https://framerusercontent.com/images/TK6PAMZN32ze4HffAHGSjINGCE.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "ed50c96d863623775517bac155723a2cb02e6a799f399bef9c31980c8cc2b20e"
+    },
+    {
+      "file": "assets/RKScM9E9K21WA9TBK4oU66fw830.svg",
+      "url": "https://framerusercontent.com/images/RKScM9E9K21WA9TBK4oU66fw830.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "5e8b4a699c1713b706638438cd390de9f7f02075be4cdb3c4b6fdfd78e1814be"
+    },
+    {
+      "file": "assets/71klQoOMWBfbXDTMUryFsO7EFpQ.svg",
+      "url": "https://framerusercontent.com/images/71klQoOMWBfbXDTMUryFsO7EFpQ.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "dda768a6b29b8157f91487d5f38f85adbc2ed4c299dee5147262cedd611e0f52"
+    },
+    {
+      "file": "assets/XSsqtEXkQlwLQgCVF2KjNesk.svg",
+      "url": "https://framerusercontent.com/images/XSsqtEXkQlwLQgCVF2KjNesk.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "86f468222cdac80615c498bda5724ffba4ebfe27404a96e397b0d5eea43f63e2"
+    },
+    {
+      "file": "assets/ZIa3rlTyPod61IyvGV39m3nMGtU.svg",
+      "url": "https://framerusercontent.com/images/ZIa3rlTyPod61IyvGV39m3nMGtU.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "fbcedbd6467f10a9a24ce483ef58b965c8f0f08e1918f76fa953eb980049e55f"
+    },
+    {
+      "file": "assets/yHaStsPESC5zzGYGdkKBBtMq840.png",
+      "url": "https://framerusercontent.com/images/yHaStsPESC5zzGYGdkKBBtMq840.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "31b759c91e85717e469bdefb1769c9ca6e210ba8ca563e5634024bd776f51fd7"
+    },
+    {
+      "file": "assets/6PaEOCdWUmaiGRRoSKYklRtQ8.png",
+      "url": "https://framerusercontent.com/images/6PaEOCdWUmaiGRRoSKYklRtQ8.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9b9d44a3ca537c0b47cfeca05c5fadbd65d9ef1f49a66ebac9b379c1d17766ee"
+    },
+    {
+      "file": "assets/mP6yDpIu2HzOfRG2Qlr2z6O28O0.svg",
+      "url": "https://framerusercontent.com/images/mP6yDpIu2HzOfRG2Qlr2z6O28O0.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "5f868774b33cb33878d6122ad0c422e35d433427fec1107239ab7302cef34dc5"
+    },
+    {
+      "file": "assets/fzMzQTIKwrvdjq3FBbxoQcxLKPE.png",
+      "url": "https://framerusercontent.com/images/fzMzQTIKwrvdjq3FBbxoQcxLKPE.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "f0c70fad0c1af492b0cd6ca24ad29bf28f2c040c02e94668bfb90d1b7ad94dd0"
+    },
+    {
+      "file": "assets/dCeA12BmBXiH1uY21XEDNyvahEo.png",
+      "url": "https://framerusercontent.com/images/dCeA12BmBXiH1uY21XEDNyvahEo.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "8f511b3fdfa76aa0ee15832dc0d95bd80cfab76195a12a0cab7b317c25cbdb80"
+    },
+    {
+      "file": "assets/Ftw2WR3BA7Qta1YZhwxUYSOSJ6o.png",
+      "url": "https://framerusercontent.com/images/Ftw2WR3BA7Qta1YZhwxUYSOSJ6o.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "29bc56db21c48f02bd28cdbb0cc042634bfebb98119aee48136ee820afd6c541"
+    },
+    {
+      "file": "assets/bPzdBnzcj0xZ9xquFthgnDKXo.png",
+      "url": "https://framerusercontent.com/images/bPzdBnzcj0xZ9xquFthgnDKXo.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "33b0fec02a6a97452c0120ebe32ecb33f1557f1eb2a1ecb61ad201b1f0487a7c"
+    },
+    {
+      "file": "assets/yaNXlI28UkUPncBvBZP6Q98EGuY.png",
+      "url": "https://framerusercontent.com/images/yaNXlI28UkUPncBvBZP6Q98EGuY.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a11ae1e6563231b91dfada04fac8839c046ee3a5ca8ea923f16cc7abf356b811"
+    },
+    {
+      "file": "assets/dvqYX9ork1jB4TUSvDZN5pM1YU.png",
+      "url": "https://framerusercontent.com/images/dvqYX9ork1jB4TUSvDZN5pM1YU.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "ca2bdfbb51f75758253660d4a4e1e34c6bbf33938314d96a30be168bd14bc5c5"
+    },
+    {
+      "file": "assets/YnrgvKUGMeimEqrFeLCn9dudPjg.png",
+      "url": "https://framerusercontent.com/images/YnrgvKUGMeimEqrFeLCn9dudPjg.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9d0b6e072425788d10ccf4d72ef199b7501c19e912c3ed260d542ef23d7b13ea"
+    },
+    {
+      "file": "assets/koxl5HswSFJ802ik3CJHVGHpNU.png",
+      "url": "https://framerusercontent.com/images/koxl5HswSFJ802ik3CJHVGHpNU.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "b407ec866f4afa091be7af0dfb7eb64f82d255687319826c572107f959c305c6"
+    },
+    {
+      "file": "assets/aqSEgVe0vvPg1pqf7rmn1e3Bqw.svg",
+      "url": "https://framerusercontent.com/images/aqSEgVe0vvPg1pqf7rmn1e3Bqw.svg",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "b5ef8ee91f0f21b925319700813e9bac8418f8ceba761a19efd917b59cfca5a9"
+    },
+    {
+      "file": "assets/F2vHXSAJqoQf7IVQpf1L3yiEAKk.png",
+      "url": "https://framerusercontent.com/images/F2vHXSAJqoQf7IVQpf1L3yiEAKk.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "4e54344c8393c2fde04d6cd611c5d1d4d7fe8c843163681a5e9f4ef575f7ccac"
+    },
+    {
+      "file": "assets/BCq0p16QtiLSy6fx05CaUoQbwfM.png",
+      "url": "https://framerusercontent.com/images/BCq0p16QtiLSy6fx05CaUoQbwfM.png",
+      "sourcePage": "https://revento.framer.website/about",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "df8f19f63f0ad0a6afac083e0ed9c473aedd7d3795999fcb321c2412838d4ab3"
+    },
+    {
+      "file": "assets/OuqgrHf92NqxKYxsNVUgImYgk.png",
+      "url": "https://framerusercontent.com/images/OuqgrHf92NqxKYxsNVUgImYgk.png",
+      "sourcePage": "https://revento.framer.website/blog/boost-roi-with-data-driven-ad-strategies",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "16b11e8c21583297f98004d8fa35ea7d8ec46422cefb9b618e654125fa9082d6"
+    },
+    {
+      "file": "assets/Hbb9YzJWNfzfBufUMNknzxsUFr4.png",
+      "url": "https://framerusercontent.com/images/Hbb9YzJWNfzfBufUMNknzxsUFr4.png",
+      "sourcePage": "https://revento.framer.website/blog/boost-roi-with-data-driven-ad-strategies",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "ff030fe133093e06e2be0de13d866037c7a639c6942fe1318bb6d99f1064e0db"
+    },
+    {
+      "file": "assets/4h3ODRVPYNhiW49DKNoYRzPrW1s.png",
+      "url": "https://framerusercontent.com/images/4h3ODRVPYNhiW49DKNoYRzPrW1s.png",
+      "sourcePage": "https://revento.framer.website/blog/boost-roi-with-data-driven-ad-strategies",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d31686b6fd15b8ffaf7ee3d66751f4012755aae986abc43aecad17b2d8bd8661"
+    },
+    {
+      "file": "assets/Ep9gbDj9iVONGIOaJSszQKXJehY.png",
+      "url": "https://framerusercontent.com/images/Ep9gbDj9iVONGIOaJSszQKXJehY.png",
+      "sourcePage": "https://revento.framer.website/blog/boost-roi-with-data-driven-ad-strategies",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "3f94e9f0c177e6d4df982ee3a5b91a814ab877f19150de86a569db1f5156b6ff"
+    },
+    {
+      "file": "assets/ied06Ut1cMoLMLt5GaHAViK8Jfc.png",
+      "url": "https://framerusercontent.com/images/ied06Ut1cMoLMLt5GaHAViK8Jfc.png",
+      "sourcePage": "https://revento.framer.website/blog/boost-roi-with-data-driven-ad-strategies",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9407de2fb94887efecee5a70a55919183f8de62d31c3ec0930a26c847cd97c5b"
+    },
+    {
+      "file": "assets/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+      "url": "https://framerusercontent.com/images/9F5TLYWC7aV4EYYGxfTs8FtI.png",
+      "sourcePage": "https://revento.framer.website/blog/boost-roi-with-data-driven-ad-strategies",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "87c8373155008a11898c306f81c7fddc65bfc294675a2355cc4cdfe8da26a056"
+    },
+    {
+      "file": "assets/6DEVz95SB9rY0IvvclGYHV29A.png",
+      "url": "https://framerusercontent.com/images/6DEVz95SB9rY0IvvclGYHV29A.png",
+      "sourcePage": "https://revento.framer.website/blog/boost-roi-with-data-driven-ad-strategies",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "eb3db553123d948e01bc0468391a7718c95e8539e969c5a7dec7f1e6b589529e"
+    },
+    {
+      "file": "assets/oJIAkPTcw0dZzX8UO4u5856lSQ.png",
+      "url": "https://framerusercontent.com/images/oJIAkPTcw0dZzX8UO4u5856lSQ.png",
+      "sourcePage": "https://revento.framer.website/blog/boost-roi-with-data-driven-ad-strategies",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d485653239633bec8108f11103067b4d4cd1d03a4b34dc494daca6f94e23e16e"
+    },
+    {
+      "file": "assets/B4mWXYzArllABjzfqwG2ofvsw.png",
+      "url": "https://framerusercontent.com/images/B4mWXYzArllABjzfqwG2ofvsw.png",
+      "sourcePage": "https://revento.framer.website/blog/boost-roi-with-data-driven-ad-strategies",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "3e17f964b8346ce63bc68f8d797371e4f5cf4362a4483acffef391f8698ba093"
+    },
+    {
+      "file": "assets/47K0a4njtcRloMIepOKoz87sRFk.png",
+      "url": "https://framerusercontent.com/images/47K0a4njtcRloMIepOKoz87sRFk.png",
+      "sourcePage": "https://revento.framer.website/blog/drive-results-using-analytics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "7ddc55972476aa60ddd4862258501a89c0e9ad4e6eba44f9abd0a02d38be6436"
+    },
+    {
+      "file": "assets/YvDPA5RLgjiC4O6dcs1fOFh9gwQ.png",
+      "url": "https://framerusercontent.com/images/YvDPA5RLgjiC4O6dcs1fOFh9gwQ.png",
+      "sourcePage": "https://revento.framer.website/blog/drive-results-using-analytics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "1c7c1f328caa2a8f84671358ca6f3149913df6d11c1604fc5b306423eab70ead"
+    },
+    {
+      "file": "assets/tWOYYBvteru7t4DPTxOxQdZssuQ.png",
+      "url": "https://framerusercontent.com/images/tWOYYBvteru7t4DPTxOxQdZssuQ.png",
+      "sourcePage": "https://revento.framer.website/blog/drive-results-using-analytics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "f8e5384c3aed053d7f22ddf48a1f5444ddb6d34409ba85456e61ecb9711ab207"
+    },
+    {
+      "file": "assets/nx5dp4WhbAnOECEyn7IaRbOXr9I.png",
+      "url": "https://framerusercontent.com/images/nx5dp4WhbAnOECEyn7IaRbOXr9I.png",
+      "sourcePage": "https://revento.framer.website/blog/drive-success-with-targeted-data-ads",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a1a53e449fb6cd451b9941ce0fc9fa5562c7c5a17d6d6cc38af1d8ae950ffe2d"
+    },
+    {
+      "file": "assets/iFyEyF11ZWg7X8iawdJTzPktXRQ.png",
+      "url": "https://framerusercontent.com/images/iFyEyF11ZWg7X8iawdJTzPktXRQ.png",
+      "sourcePage": "https://revento.framer.website/blog/elevate-ads-with-data-insights",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "45d4e3967c975dcdb65e9327fb0fbb2eb5cb8cb1fab295429659b7542b50141c"
+    },
+    {
+      "file": "assets/awRpRWEZtIZTwBIXazh24XrdnZs.png",
+      "url": "https://framerusercontent.com/images/awRpRWEZtIZTwBIXazh24XrdnZs.png",
+      "sourcePage": "https://revento.framer.website/blog/elevate-ads-with-data-insights",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d0d415fe905607c62a1cf6c7c6ce389a2cd16eac7d1c3377190ce3c968fa7d57"
+    },
+    {
+      "file": "assets/XNeYlzE2uco0pd6gbJwfBE9LlVA.png",
+      "url": "https://framerusercontent.com/images/XNeYlzE2uco0pd6gbJwfBE9LlVA.png",
+      "sourcePage": "https://revento.framer.website/blog/elevate-ads-with-data-insights",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "3c56f10cc0f25d6148fee6d1c73c0cb1f9bef3c8e4145fc86e0193e4d9de77fb"
+    },
+    {
+      "file": "assets/NvrCpH26Hy2azJBqY49jrL53J4.png",
+      "url": "https://framerusercontent.com/images/NvrCpH26Hy2azJBqY49jrL53J4.png",
+      "sourcePage": "https://revento.framer.website/blog/how-to-maximize-roi-with-data-driven-advertising",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "fd48a09706e9cf3a0b08ef16b1813e4ba7d57e79677dceaf2c29444b716907b7"
+    },
+    {
+      "file": "assets/UkrFOv85omdb0mmJyLwmDWeEIl4.png",
+      "url": "https://framerusercontent.com/images/UkrFOv85omdb0mmJyLwmDWeEIl4.png",
+      "sourcePage": "https://revento.framer.website/blog/improve-ads-using-smart-data",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "f7055e3e1ba5647ce49811ac00715e7d60b40177a80d273460bd07c74f94a7d3"
+    },
+    {
+      "file": "assets/vZ89JJVkrIoqy2qLyI1NCq4Y1U.png",
+      "url": "https://framerusercontent.com/images/vZ89JJVkrIoqy2qLyI1NCq4Y1U.png",
+      "sourcePage": "https://revento.framer.website/blog/improve-ads-using-smart-data",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "761985c269f639eead78ec72ec2cff79dfb5a9d3564cc3b746981652c5a9b65b"
+    },
+    {
+      "file": "assets/mHvDzoFVeJhMbdAtjY4e2SIcF0.png",
+      "url": "https://framerusercontent.com/images/mHvDzoFVeJhMbdAtjY4e2SIcF0.png",
+      "sourcePage": "https://revento.framer.website/blog/leverage-data-for-higher-ad-impact",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "aab29cde38257df5e2941e8f5f91d302a6a290b8646c3cd54a989e458ec02f36"
+    },
+    {
+      "file": "assets/e2ICEuXNmOSuIQkDJnMUdibwwLA.png",
+      "url": "https://framerusercontent.com/images/e2ICEuXNmOSuIQkDJnMUdibwwLA.png",
+      "sourcePage": "https://revento.framer.website/blog/improve-ads-using-smart-data",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a2a3e1214decb915ea4298167191e649bd87076da2fe92f7d90bf9dd7736127d"
+    },
+    {
+      "file": "assets/dwh59ghSxsKTtIsOcLiHCg2ZBaI.png",
+      "url": "https://framerusercontent.com/images/dwh59ghSxsKTtIsOcLiHCg2ZBaI.png",
+      "sourcePage": "https://revento.framer.website/blog/leverage-data-for-higher-ad-impact",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "f9644c68a0bff147b51ba49e75fdf9c4fff1293fa7f9764579ad01d93d22f1d9"
+    },
+    {
+      "file": "assets/qOAYk5sbIq5qf56rhFrHS1IjMg.png",
+      "url": "https://framerusercontent.com/images/qOAYk5sbIq5qf56rhFrHS1IjMg.png",
+      "sourcePage": "https://revento.framer.website/blog/leverage-data-for-higher-ad-impact",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "cdbc1385b9c5e9a371e690a8d138b0cc8683a2cbb35d13668676acf74bc3a6f7"
+    },
+    {
+      "file": "assets/jqh5qJp5NJrP9y8K9kqsxmZMt9o.png",
+      "url": "https://framerusercontent.com/images/jqh5qJp5NJrP9y8K9kqsxmZMt9o.png",
+      "sourcePage": "https://revento.framer.website/blog/unlock-success-via-targeted-ad-data",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "81361f6fabab9969f4802e9b447e0acc122f1bdb2a8389b37065a2545bf15fc5"
+    },
+    {
+      "file": "assets/s1hUnjRBt3BZssdHZ0fnwlhSQ3Q.png",
+      "url": "https://framerusercontent.com/images/s1hUnjRBt3BZssdHZ0fnwlhSQ3Q.png",
+      "sourcePage": "https://revento.framer.website/blog/unlock-success-via-targeted-ad-data",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "cdfcf9895d5e4d921061efcf30bcb903e63b2f2821bc394e0e533047b9939035"
+    },
+    {
+      "file": "assets/cKMienobxTxuu3JETTpfh5QlkL4.png",
+      "url": "https://framerusercontent.com/images/cKMienobxTxuu3JETTpfh5QlkL4.png",
+      "sourcePage": "https://revento.framer.website/blog/unlock-success-via-targeted-ad-data",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9c7170e575adbff47e74a041a62faa7e4534c8f4cae7c689c6164f56fbb86d92"
+    },
+    {
+      "file": "assets/w74BtURgAfP02oAyj5vLEQq1KcY.svg",
+      "url": "https://framerusercontent.com/images/w74BtURgAfP02oAyj5vLEQq1KcY.svg",
+      "sourcePage": "https://revento.framer.website/blog",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "65daea03d778cf2112b2f694f2f0bcaab1164048a9e368a9bc2d0c29eb3b1515"
+    },
+    {
+      "file": "assets/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+      "url": "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+      "sourcePage": "https://revento.framer.website/blog",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "ca764b5867087d3c5ffc2bb0497a50b2ecf18ae7252169951ec97e18a592973d"
+    },
+    {
+      "file": "assets/11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+      "url": "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+      "sourcePage": "https://revento.framer.website/blog",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "6fce5a0604a6267ad769dd5e7afbfcf8bd0390897f682aec71f6307999a5b67e"
+    },
+    {
+      "file": "assets/1SZ9et7xFFD6xHZd3W5BamAo4.svg",
+      "url": "https://framerusercontent.com/images/1SZ9et7xFFD6xHZd3W5BamAo4.svg",
+      "sourcePage": "https://revento.framer.website/contact",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "ed209f36c369acb624ca7fb7f5e83c75f511fb7e5a5425611b37c12fe433a742"
+    },
+    {
+      "file": "assets/5f1Uiz74l8yYf9yEPJTcfAfgM.svg",
+      "url": "https://framerusercontent.com/images/5f1Uiz74l8yYf9yEPJTcfAfgM.svg",
+      "sourcePage": "https://revento.framer.website/contact",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "c8a367a7ee5ac4fa67e90bd1ec9dbeeb50192199c8fe0ca75ca4c63d76778fa9"
+    },
+    {
+      "file": "assets/AeFvXhaWzVGf2nW55xquWsfteBM.svg",
+      "url": "https://framerusercontent.com/images/AeFvXhaWzVGf2nW55xquWsfteBM.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "53002c84d296984b15b01f8f05d315aec27650d7600ce86edac039d9abbc37ea"
+    },
+    {
+      "file": "assets/skbUtvcpmTUqWb39ckLj1ra7TE.svg",
+      "url": "https://framerusercontent.com/images/skbUtvcpmTUqWb39ckLj1ra7TE.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "f894f39f4d1f0d02982908abee5deb857eac51c341e5bb494194fe9bdf69198b"
+    },
+    {
+      "file": "assets/3UclJG1nnrRt1fIFjY95idlaaWc.svg",
+      "url": "https://framerusercontent.com/images/3UclJG1nnrRt1fIFjY95idlaaWc.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a85dc254f7da716a7099bc6fa9d62b3116d5d2cf0bd1c99d663c9f61c8d96bbc"
+    },
+    {
+      "file": "assets/Mfur6LVh1A1lVv5s9OYSbdNovE.svg",
+      "url": "https://framerusercontent.com/images/Mfur6LVh1A1lVv5s9OYSbdNovE.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "4acacd3033a2e350c39643cf009c29aa7071d084998fe9b1fc697c585c0c8957"
+    },
+    {
+      "file": "assets/BGqpp1YM4qKJdHY9REqeaffeszU.svg",
+      "url": "https://framerusercontent.com/images/BGqpp1YM4qKJdHY9REqeaffeszU.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "75c445684302be2a47009dd6d32416cf013e765f3b55943d52dc8a3ce1ebcdb4"
+    },
+    {
+      "file": "assets/YZ4YVYvxYcrDZTkwymDWD8arcwI.png",
+      "url": "https://framerusercontent.com/images/YZ4YVYvxYcrDZTkwymDWD8arcwI.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "b7b0733f00458bc996e2fe2a3cff92a425d1f453ba652973e9b49f23886c69f5"
+    },
+    {
+      "file": "assets/zF24pyp35mOT35C0XWrgS7ZIoek.svg",
+      "url": "https://framerusercontent.com/images/zF24pyp35mOT35C0XWrgS7ZIoek.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "56fa6b0c0854a1b28e893aa4d126d607550170a0f84fbee6ec35a5172a4b3548"
+    },
+    {
+      "file": "assets/LMnSzKwI5us0vw7JhMZzlwhPdo.svg",
+      "url": "https://framerusercontent.com/images/LMnSzKwI5us0vw7JhMZzlwhPdo.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "3577bb7e8f9ab0a3f6c4cbe792a50a0be76aacff9d67ddadc3e8c0495747be14"
+    },
+    {
+      "file": "assets/TnubgyUbK79WUzuRwVKhPKgas.svg",
+      "url": "https://framerusercontent.com/images/TnubgyUbK79WUzuRwVKhPKgas.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "088a8dad625e1948e9186be5ee6a5427acee3348d4311e435f6816f8e17a70a5"
+    },
+    {
+      "file": "assets/idbDbcyPRv2S59MVMgWh9L7LA.svg",
+      "url": "https://framerusercontent.com/images/idbDbcyPRv2S59MVMgWh9L7LA.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "47d55d2b0c8af425b2f0504713a92cf015e5dcbe3984ab3886973b7222eade4f"
+    },
+    {
+      "file": "assets/hGSozs8NwWZ077Sm2JLNNdlBwQw.svg",
+      "url": "https://framerusercontent.com/images/hGSozs8NwWZ077Sm2JLNNdlBwQw.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "f05fe567e2d93a135fbd2467c622f0ca5fa9e68b7cb00c07b1fd1ddc787b3f68"
+    },
+    {
+      "file": "assets/3YVd2oKEYburTBTZtW3LgoTbExU.png",
+      "url": "https://framerusercontent.com/images/3YVd2oKEYburTBTZtW3LgoTbExU.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "32b39b6d7b39510b6f1d1b6671ac9c59dc8a735d6a63c4c8edea3299c9f4ae8f"
+    },
+    {
+      "file": "assets/Us7I6b27Rj1bPPbPDEkTF4xMEU.png",
+      "url": "https://framerusercontent.com/images/Us7I6b27Rj1bPPbPDEkTF4xMEU.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "5fb8a9741bb31338cbdf80bcee2c4fe7d1e84a6477ed6331c001372af33fbe42"
+    },
+    {
+      "file": "assets/lRUVMB1hqLBKktxpxOV2NWUMVk.png",
+      "url": "https://framerusercontent.com/images/lRUVMB1hqLBKktxpxOV2NWUMVk.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "230e4be71f5dd31bd77f374355acc79d2d7b7030e3f4feaab051a1e7b2b60eb4"
+    },
+    {
+      "file": "assets/CKLTdNjhz9KoDE3bA5jdxeiGa4o.png",
+      "url": "https://framerusercontent.com/images/CKLTdNjhz9KoDE3bA5jdxeiGa4o.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "ef717c88d2deba7e3e28b21bd356f1bb1a2c11d14abf96eca35d99bfd2fe4a98"
+    },
+    {
+      "file": "assets/VJfhCUd5WwmzhreVEXOcwKQ8Zk8.png",
+      "url": "https://framerusercontent.com/images/VJfhCUd5WwmzhreVEXOcwKQ8Zk8.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9b093a7139beaedcc847cf7699fd73dfcfebe4d9f93bfb9eff112321250c8294"
+    },
+    {
+      "file": "assets/W98dxSedZZzAFevUxHy9jSRoBk.png",
+      "url": "https://framerusercontent.com/images/W98dxSedZZzAFevUxHy9jSRoBk.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a5d3276f29aeb6c28a7293c4e34f9623d96aec96a3465d4fc6e64b8e8f30c060"
+    },
+    {
+      "file": "assets/tWLk7gWTvpby7u3xbdzVUeMEV8.png",
+      "url": "https://framerusercontent.com/images/tWLk7gWTvpby7u3xbdzVUeMEV8.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9e7e7d24ae7b80591959f6f65aecd99ad531c4f79f55058aef5a660acedbb493"
+    },
+    {
+      "file": "assets/7QpteOOLYm2f713Kpbd9WTeekik.svg",
+      "url": "https://framerusercontent.com/images/7QpteOOLYm2f713Kpbd9WTeekik.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "36c181d8412d27ac935f3cd145fd35d74a0a6b043b32431ce9c819cd76cef30f"
+    },
+    {
+      "file": "assets/qnyRKMJzoEDpfE7atO7qcfmMfKc.svg",
+      "url": "https://framerusercontent.com/images/qnyRKMJzoEDpfE7atO7qcfmMfKc.svg",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "abb085193264a7ab75fccb40d606bd4cafeb01a1bb1755d59038d3aba3ca722a"
+    },
+    {
+      "file": "assets/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+      "url": "https://framerusercontent.com/images/KpcZJKXn02WGrjAUjio7tMa5kj0.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9645700856106012ed173e6fef44a71935fad4f427c080b262a8c043edcdaa91"
+    },
+    {
+      "file": "assets/GgzrA0RY58xog9M022DpaAtJKA.png",
+      "url": "https://framerusercontent.com/images/GgzrA0RY58xog9M022DpaAtJKA.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "2ac661410cceb40e1af97212cc1c0bb53b02c144c531cf468b428097a01cfc85"
+    },
+    {
+      "file": "assets/sMNwg8amrEm8qC886eAp0rreY8.png",
+      "url": "https://framerusercontent.com/images/sMNwg8amrEm8qC886eAp0rreY8.png",
+      "sourcePage": "https://revento.framer.website/how-we-work",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "2679e216c8089c85f7c8b13c75d8ae37b236702f9dddd3b93928131c31e7ae50"
+    },
+    {
+      "file": "assets/LfNj2Ju61vOCAbKLV3Rd533nO0s.png",
+      "url": "https://framerusercontent.com/images/LfNj2Ju61vOCAbKLV3Rd533nO0s.png",
+      "sourcePage": "https://revento.framer.website/how-we-work",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "5eb35cc949f99761be0946626d403bd4239acdc30fcc64b68117fe17100c495e"
+    },
+    {
+      "file": "assets/3RuPeHxeYCRhFs3BZAZ03fKxEk.png",
+      "url": "https://framerusercontent.com/images/3RuPeHxeYCRhFs3BZAZ03fKxEk.png",
+      "sourcePage": "https://revento.framer.website/how-we-work",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "49c19df2b2f062894b5846e8f9c14da49242d6b8e7b5b853708eca59379ad19a"
+    },
+    {
+      "file": "assets/kPEIXHsUS71ZFmjnqlzBr7VREoM.png",
+      "url": "https://framerusercontent.com/images/kPEIXHsUS71ZFmjnqlzBr7VREoM.png",
+      "sourcePage": "https://revento.framer.website/how-we-work",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "597625d29dda797a9a89d906bda05a629c91a682873d8c8af2504697eca3f953"
+    },
+    {
+      "file": "assets/cC7gIXyV0lcrmDLI5qBST8MNo.png",
+      "url": "https://framerusercontent.com/images/cC7gIXyV0lcrmDLI5qBST8MNo.png",
+      "sourcePage": "https://revento.framer.website/how-we-work",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "b9974eeea00591cd00568b20f121ae324157b53b7355d965a7a95ecd09e8b8cf"
+    },
+    {
+      "file": "assets/5NHtkVFvup7kVQIKh9zEXXTRTk.png",
+      "url": "https://framerusercontent.com/images/5NHtkVFvup7kVQIKh9zEXXTRTk.png",
+      "sourcePage": "https://revento.framer.website/pricing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "1d4a2fb9aaea8743580898dbd3067330a8b461ebc353bf5abb40b8f4ec6e6abe"
+    },
+    {
+      "file": "assets/z2WdUpeHt85PrtNFbMJE6mUHk.png",
+      "url": "https://framerusercontent.com/images/z2WdUpeHt85PrtNFbMJE6mUHk.png",
+      "sourcePage": "https://revento.framer.website/pricing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "812ca9c352a59aedc905c92058aaea0741d1210ca6625b39dd66f2d5b02f17d9"
+    },
+    {
+      "file": "assets/RnzDJoOsPRCGRSkZevLI4YxzA.png",
+      "url": "https://framerusercontent.com/images/RnzDJoOsPRCGRSkZevLI4YxzA.png",
+      "sourcePage": "https://revento.framer.website/pricing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "58af2c8a9dda34967d2e8bb17e8e0e8fad03f26838a318af456ec54655ded18f"
+    },
+    {
+      "file": "assets/YcdOY8jeCV1u2sXTTrJC2a2aG04.png",
+      "url": "https://framerusercontent.com/images/YcdOY8jeCV1u2sXTTrJC2a2aG04.png",
+      "sourcePage": "https://revento.framer.website/pricing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "94e2a3aea8fac61ee94a11de800217e4ccd56f36d973d667fcdd26ff4d74622e"
+    },
+    {
+      "file": "assets/Jiu8RFow3ViqEyvCVJYIo4gtHM.png",
+      "url": "https://framerusercontent.com/images/Jiu8RFow3ViqEyvCVJYIo4gtHM.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "f92d3006e8e05899485d6b41b4e0188550b04f156d05807213cf516431741c9b"
+    },
+    {
+      "file": "assets/sm35Jrqps0QMhfUA1ZIpnlKD0w.png",
+      "url": "https://framerusercontent.com/images/sm35Jrqps0QMhfUA1ZIpnlKD0w.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "2c6e4808bc76c5e304775138202af0f6c79f24068f6def7a53f8f20c7cfb8029"
+    },
+    {
+      "file": "assets/ktdmMXWyKkQsQapwFsHuNauO8.png",
+      "url": "https://framerusercontent.com/images/ktdmMXWyKkQsQapwFsHuNauO8.png",
+      "sourcePage": "https://revento.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "8e9d7fd355de6ba481c484ea07f17f22e418783d311d0bb03f33b661a217672d"
+    },
+    {
+      "file": "assets/6Lm6p1Of0YJrU71VssCQAP8M0.png",
+      "url": "https://framerusercontent.com/images/6Lm6p1Of0YJrU71VssCQAP8M0.png",
+      "sourcePage": "https://revento.framer.website/service/analytics-and-reporting",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9d17ea0fe9b36532525cd2b17133bd75a3635489a299590edb4773f1193ac65a"
+    },
+    {
+      "file": "assets/XHIf7sHA4zEHC7ctdKiMMrwfM.png",
+      "url": "https://framerusercontent.com/images/XHIf7sHA4zEHC7ctdKiMMrwfM.png",
+      "sourcePage": "https://revento.framer.website/service",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "dc4399e2d9ab5e25225f26b8b44cce9daf2ff826b9782aef1c4bffb801926363"
+    },
+    {
+      "file": "assets/kef0yFNKhK1mGIbvNgjaSMq7yOA.png",
+      "url": "https://framerusercontent.com/images/kef0yFNKhK1mGIbvNgjaSMq7yOA.png",
+      "sourcePage": "https://revento.framer.website/service",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "63d324f21007aded7b9c74b68bb401026302bba8ab850a5a0b567ff0e33407da"
+    },
+    {
+      "file": "assets/UjQ8ZP5nkYcbJJsGY87z7Vhrk.png",
+      "url": "https://framerusercontent.com/images/UjQ8ZP5nkYcbJJsGY87z7Vhrk.png",
+      "sourcePage": "https://revento.framer.website/team",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "654d5dfec0c44796253357fa2c706152f317252b0a235ab59357b66379ef6f76"
+    },
+    {
+      "file": "assets/l1wmmmpGoQAYzEOiCPDNWHSTcp4.png",
+      "url": "https://framerusercontent.com/images/l1wmmmpGoQAYzEOiCPDNWHSTcp4.png",
+      "sourcePage": "https://revento.framer.website/team",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "4b9be0914c02a3a7d2cbcf23f04506889a14a8374ed273979448f1d5f7816036"
+    },
+    {
+      "file": "assets/U4mCsDQAb6i6zOvZYZ81Doe5c.png",
+      "url": "https://framerusercontent.com/images/U4mCsDQAb6i6zOvZYZ81Doe5c.png",
+      "sourcePage": "https://revento.framer.website/team",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "10ab4cc209043a120280b0ee1b439de794aa319f78dc28f33953c4aa6ed38f46"
+    },
+    {
+      "file": "assets/YWe9MYXWuliqV7MtRFZm90LQ58.png",
+      "url": "https://framerusercontent.com/images/YWe9MYXWuliqV7MtRFZm90LQ58.png",
+      "sourcePage": "https://revento.framer.website/team",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "e18d8d31ec1481e913b18fcb92720c093de1e622e5e96f79d8f1c6036e1779d1"
+    },
+    {
+      "file": "assets/SBT8cRheQfJrbFDEGZBofFUagDA.png",
+      "url": "https://framerusercontent.com/images/SBT8cRheQfJrbFDEGZBofFUagDA.png",
+      "sourcePage": "https://revento.framer.website/team",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d8990f119fd1a52195c1868b583bf3b16dd7b59dbe54155f88cae7d1a80b6883"
+    },
+    {
+      "file": "assets/8GayQ4e2sRdh8bzZqYGggvu3FbU.png",
+      "url": "https://framerusercontent.com/images/8GayQ4e2sRdh8bzZqYGggvu3FbU.png",
+      "sourcePage": "https://revento.framer.website/team",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "8cd1d4c1c8b3fd1de21760c4dc7d3d34f5af6d8a6fba391bf04a15e8eaa2d681"
+    },
+    {
+      "file": "assets/NpD7XZcp73cKjPeN7zz5otOiFA.png",
+      "url": "https://framerusercontent.com/images/NpD7XZcp73cKjPeN7zz5otOiFA.png",
+      "sourcePage": "https://revento.framer.website/team",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "5183e6adeb7017b16de64761efb8509407eceb2024fc6620d058fae19ac8316f"
+    },
+    {
+      "file": "assets/6auz3AGEJvdCkuuWH8Tr1OYQkw.png",
+      "url": "https://framerusercontent.com/images/6auz3AGEJvdCkuuWH8Tr1OYQkw.png",
+      "sourcePage": "https://revento.framer.website/team",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "219152eab97d5d37f2374bd4030e3c2ede3f8d8a9210965375b4dfbafebab83f"
+    },
+    {
+      "file": "assets/y4wVMkeiXjVX3vDcMOkfXQl9agM.png",
+      "url": "https://framerusercontent.com/images/y4wVMkeiXjVX3vDcMOkfXQl9agM.png",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a64b8574b685ab2128ea41f8fcec5a98662b40b83bf548dfb01a3d8946c076bc"
+    },
+    {
+      "file": "assets/hJ6RoGAdRo8JIs48JamG934Yg.png",
+      "url": "https://framerusercontent.com/images/hJ6RoGAdRo8JIs48JamG934Yg.png",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "f7799d20c22c76f7fe0af471935e2bdf132e203906ae7fe85b096fac3f8251d6"
+    },
+    {
+      "file": "assets/6yFXxh0teYUmSalx9a7pkglsc.png",
+      "url": "https://framerusercontent.com/images/6yFXxh0teYUmSalx9a7pkglsc.png",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "e6805bde4f566d49c2b73ca14a5df69d16857a5489d61c10676884b0a44070ff"
+    },
+    {
+      "file": "assets/4xEeJbQT0WekHVdzNPWq8UeUo8.png",
+      "url": "https://framerusercontent.com/images/4xEeJbQT0WekHVdzNPWq8UeUo8.png",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "38516c77579e110038b117c340200010592569f51e80454a8487124b11d97491"
+    },
+    {
+      "file": "assets/o7PLUF2405sZL3PMevvlcbPt58o.png",
+      "url": "https://framerusercontent.com/images/o7PLUF2405sZL3PMevvlcbPt58o.png",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9c8625648e59697cdb65b6c506deba67b34dc92e8a865e553204210e5c278ce9"
+    },
+    {
+      "file": "assets/tMAfNicque0e2U45WYgqhbf64L0.png",
+      "url": "https://framerusercontent.com/images/tMAfNicque0e2U45WYgqhbf64L0.png",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "8fc73b961cd77b0459ff5fac8a22b3bbe112f122364459e4a914f796f753f909"
+    },
+    {
+      "file": "assets/PgA33PGnXEgl8bQQdOb2dxlbLHw.jpg",
+      "url": "https://framerusercontent.com/images/PgA33PGnXEgl8bQQdOb2dxlbLHw.jpg",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "c6391ed3f13fdbccae670cc999939f255a7dae41b3e37134c26603def05cba0a"
+    },
+    {
+      "file": "assets/7qQD36bR7J2EBNvrCfObjkBYs.png",
+      "url": "https://framerusercontent.com/images/7qQD36bR7J2EBNvrCfObjkBYs.png",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a877f6242395c31ca6f6d4bf38bf9a32ef430297430c61638fb043f5105b7ab1"
+    },
+    {
+      "file": "assets/Y3me8eAjCbDG5uX82oB4OeDPyo.png",
+      "url": "https://framerusercontent.com/images/Y3me8eAjCbDG5uX82oB4OeDPyo.png",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "3d939e19d795d3f2a17bfad90eebe80f6d9faa07b98af67fe299a1a0bb6d43e8"
+    },
+    {
+      "file": "assets/ZvA9hbFxR7vDAQHYgLi0kMoUm94.png",
+      "url": "https://framerusercontent.com/images/ZvA9hbFxR7vDAQHYgLi0kMoUm94.png",
+      "sourcePage": "https://revento.framer.website/work/brand-boost-initiative",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "b5025914b1a11fa2b70ad7393ae62d4858e9806b4be9ab43ad69eac27d0708f3"
+    },
+    {
+      "file": "assets/ecY3NL2yIEX9I3ikeFqzhoN5tF4.jpg",
+      "url": "https://framerusercontent.com/images/ecY3NL2yIEX9I3ikeFqzhoN5tF4.jpg",
+      "sourcePage": "https://revento.framer.website/testimonial",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "e2fcf9feaf129b39cc90f0d340b2a3789c160b5ccfe8e0b3b98a7b4b383521ef"
+    },
+    {
+      "file": "assets/nv7KrRGCcTqAwNTTTgNMbmGXpzk.png",
+      "url": "https://framerusercontent.com/images/nv7KrRGCcTqAwNTTTgNMbmGXpzk.png",
+      "sourcePage": "https://revento.framer.website/work/ecompro-seo-optimization",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "3181e823994db5251ff13d7200764752f2ab38fe15191b8917094274ff7f8797"
+    },
+    {
+      "file": "assets/DqTVCxEcanTwMoJAAWr2zGAado.png",
+      "url": "https://framerusercontent.com/images/DqTVCxEcanTwMoJAAWr2zGAado.png",
+      "sourcePage": "https://revento.framer.website/work/growth-spark-strategy",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "133cb1c4f45a630447522cfeab665dbc5a59a4ca6eb3eeadfc18ae62d9dc7163"
+    },
+    {
+      "file": "assets/TfuUDhgQRu0WZqNzwlWDW2ZZ7GQ.png",
+      "url": "https://framerusercontent.com/images/TfuUDhgQRu0WZqNzwlWDW2ZZ7GQ.png",
+      "sourcePage": "https://revento.framer.website/work/growth-spark-strategy",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "985f35d3aeba2537ad68558d474067ac8dcff95cf58038b43cffa7a433943d5d"
+    },
+    {
+      "file": "assets/e2PGwLmWVcqVj0pq1PsZsSLxpTI.png",
+      "url": "https://framerusercontent.com/images/e2PGwLmWVcqVj0pq1PsZsSLxpTI.png",
+      "sourcePage": "https://revento.framer.website/work/luxurylaunch-campaign",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "67e92d6e318a847ca9eaa94c687e135bc427c4ab9383f7d6cd5fc30b5d3f5779"
+    },
+    {
+      "file": "assets/FsKQBl7ZPiZ1sMdZtWVpJVgbKFk.png",
+      "url": "https://framerusercontent.com/images/FsKQBl7ZPiZ1sMdZtWVpJVgbKFk.png",
+      "sourcePage": "https://revento.framer.website/work/market-impact-plan",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "3df91347156723a586d162d91debfc3affddeb325afb0a8e6ed871eb65a0139b"
+    },
+    {
+      "file": "assets/bCcQRHy93q8s76LVOaAe3gJ4U.png",
+      "url": "https://framerusercontent.com/images/bCcQRHy93q8s76LVOaAe3gJ4U.png",
+      "sourcePage": "https://revento.framer.website/work/brand-elevation-strategy",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "17d0f720df9e0d0275d9e8f3e2d53654904f5bdc5f05452dc87575188d003ea4"
+    },
+    {
+      "file": "assets/5XnXnWuMPqBtngIogov9ZxdH0s.png",
+      "url": "https://framerusercontent.com/images/5XnXnWuMPqBtngIogov9ZxdH0s.png",
+      "sourcePage": "https://revento.framer.website/work/brand-power-program",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "69abc8f4244c8182f68042b211905468f79e635e01cce556fb124a3856b35131"
+    },
+    {
+      "file": "assets/rEQaURRH6FlnXY6gmaqXN6NIsdk.png",
+      "url": "https://framerusercontent.com/images/rEQaURRH6FlnXY6gmaqXN6NIsdk.png",
+      "sourcePage": "https://revento.framer.website/work/brand-elevation-strategy",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "c1c3ca17dd63ff4e9d9e004e9a3f6184215d06cbc338ee875bb9031dc7b4a390"
+    },
+    {
+      "file": "assets/H4cVIRoDrmPHUSDxOC3XE0UCs.png",
+      "url": "https://framerusercontent.com/images/H4cVIRoDrmPHUSDxOC3XE0UCs.png",
+      "sourcePage": "https://revento.framer.website/work/brand-power-program",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d798b7525f540573ddb56753a6882fbccc5f1e8a744a52c9a21bb2272d3bbb22"
+    },
+    {
+      "file": "assets/WXj3ZUgFQJbkKO0OxlTycLfaY.png",
+      "url": "https://framerusercontent.com/images/WXj3ZUgFQJbkKO0OxlTycLfaY.png",
+      "sourcePage": "https://revento.framer.website/work/vision-scale-drive",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "025f2702def1c8e27bbd951eeb66a0591c6bcd109b387a4c34d01ec2222992dd"
+    },
+    {
+      "file": "assets/leKdds3jqJcW37Ug9973IDrAAUU.png",
+      "url": "https://framerusercontent.com/images/leKdds3jqJcW37Ug9973IDrAAUU.png",
+      "sourcePage": "https://revento.framer.website/work/market-impact-plan",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "5ff1dca884515b3d0f7bbefbe9d743afa6c4b85b5a87776affd5c0ab7aee99a3"
+    }
+  ]
+}

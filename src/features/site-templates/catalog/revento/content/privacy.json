@@ -1,0 +1,113 @@
+{
+  "images": [],
+  "blocks": [
+    {
+      "heading": {
+        "zh": "说明",
+        "en": "Introduction"
+      },
+      "paragraphs": [
+        {
+          "zh": "本页说明此模板演示站如何处理信息。网站展示品牌、服务、作品与文章，不提供账户、支付或真实业务提交。",
+          "en": "This page explains how this template demo handles information. The site presents a brand, services, projects, and articles. It does not provide accounts, payments, or live business submissions."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "个人信息",
+        "en": "Personal Information"
+      },
+      "paragraphs": [
+        {
+          "zh": "联系表单只在当前浏览器页面内执行字段校验，不会发送或保存姓名、公司、电话、邮箱或留言。刷新或离开页面后输入内容可能丢失。",
+          "en": "The contact form validates fields in the current browser page only. Names, companies, phone numbers, email addresses, and messages are not sent or stored. Input may be lost when the page is refreshed or closed."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "技术信息",
+        "en": "Technical Information"
+      },
+      "paragraphs": [
+        {
+          "zh": "本模板不接入第三方统计、广告追踪或用户画像服务。部署环境可能保留必要的访问与错误日志，实际运营者应按自身环境补充说明。",
+          "en": "This template does not integrate third-party analytics, advertising trackers, or profiling. Hosting environments may keep necessary access and error logs; an operator must describe the behavior of its own environment."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "支付信息",
+        "en": "Payment Information"
+      },
+      "paragraphs": [
+        {
+          "zh": "此演示站没有支付入口，不收集银行卡、账单地址或其他支付信息。",
+          "en": "This demo has no checkout and does not collect card details, billing addresses, or other payment information."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "信息使用",
+        "en": "Use of Information"
+      },
+      "paragraphs": [
+        {
+          "zh": "表单输入仅用于本地校验并显示结果。不发送营销邮件，不生成订单，不建立客户档案。",
+          "en": "Form input is used only for local validation and displaying its result. No marketing emails, orders, or customer records are created."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "信息保护",
+        "en": "Information Protection"
+      },
+      "paragraphs": [
+        {
+          "zh": "请勿在演示表单中输入密码、证件号码或其他敏感信息。未来接入真实服务前，需要另行实现访问控制、传输与存储保护以及相应政策。",
+          "en": "Do not enter passwords, identity numbers, or other sensitive data in the demo form. A live integration requires its own access controls, transfer and storage protections, and applicable policies."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "信息共享",
+        "en": "Information Sharing"
+      },
+      "paragraphs": [
+        {
+          "zh": "本模板不会通过表单向第三方发送个人信息。主动点击邮箱或电话链接时，将由你所选择的客户端接管后续操作。",
+          "en": "The template does not transmit personal information through the form. If you choose an email or telephone link, your selected client handles the subsequent action."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "Cookie 与本地存储",
+        "en": "Cookies and Local Storage"
+      },
+      "paragraphs": [
+        {
+          "zh": "模板不为表单设置 Cookie，也不将输入写入本地存储。语言通过页面路径区分，切换时保留当前页面、查询参数和锚点。",
+          "en": "The template sets no form cookies and does not write input to local storage. Language is represented by the page path; switching retains the current page, query parameters, and fragment."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "政策更新",
+        "en": "Policy Changes"
+      },
+      "paragraphs": [
+        {
+          "zh": "此文案描述当前演示功能。接入真实业务、统计或支付前，运营者应根据实际数据处理更新政策并向访问者说明。",
+          "en": "This notice describes the current demo. Before adding live business processing, analytics, or payments, an operator must update the policy to reflect the actual data handling and inform visitors."
+        }
+      ]
+    }
+  ]
+}

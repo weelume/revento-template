@@ -1,0 +1,370 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "revento",
+  "version": "1.0.0",
+  "name": "Revento · 创意增长",
+  "gitUrl": "https://github.com/weelume/revento-template",
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "数字营销",
+    "深蓝紫橙",
+    "三维插画",
+    "流程折叠",
+    "双语",
+    "PC / iPad / H5"
+  ],
+  "summary": "深蓝紫橙创意营销整站，33 个双语页面，包含六项服务、八组作品、八篇文章、九人团队、价格、评价、流程及联系。",
+  "accentColor": "#9d89fc",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "Revento desktop home",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/desktop-service.webp",
+      "alt": "Revento desktop service",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/desktop-blog.webp",
+      "alt": "Revento desktop blog",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "Revento desktop contact",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "Revento tablet home",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/tablet-service.webp",
+      "alt": "Revento tablet service",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/tablet-blog.webp",
+      "alt": "Revento tablet blog",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "Revento tablet contact",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "Revento mobile home",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    },
+    {
+      "src": "assets/mobile-service.webp",
+      "alt": "Revento mobile service",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    },
+    {
+      "src": "assets/mobile-blog.webp",
+      "alt": "Revento mobile blog",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "Revento mobile contact",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "about",
+          "title": "关于我们",
+          "localizedTitles": {
+            "en": "About"
+          }
+        },
+        {
+          "slug": "service",
+          "title": "服务",
+          "localizedTitles": {
+            "en": "Services"
+          }
+        },
+        {
+          "slug": "service/search-engine-optimization",
+          "title": "搜索引擎优化",
+          "localizedTitles": {
+            "en": "Search Engine Optimization"
+          }
+        },
+        {
+          "slug": "service/content-marketing",
+          "title": "内容营销",
+          "localizedTitles": {
+            "en": "Content Marketing"
+          }
+        },
+        {
+          "slug": "service/social-media-marketing",
+          "title": "社交媒体营销",
+          "localizedTitles": {
+            "en": "Social Media Marketing"
+          }
+        },
+        {
+          "slug": "service/email-marketing",
+          "title": "邮件营销",
+          "localizedTitles": {
+            "en": "Email Marketing"
+          }
+        },
+        {
+          "slug": "service/influencer-marketing",
+          "title": "创作者合作营销",
+          "localizedTitles": {
+            "en": "Influencer Marketing"
+          }
+        },
+        {
+          "slug": "service/analytics-and-reporting",
+          "title": "数据分析与报告",
+          "localizedTitles": {
+            "en": "Analytics and Reporting"
+          }
+        },
+        {
+          "slug": "work",
+          "title": "作品",
+          "localizedTitles": {
+            "en": "Works"
+          }
+        },
+        {
+          "slug": "work/brand-boost-initiative",
+          "title": "品牌增长计划",
+          "localizedTitles": {
+            "en": "Brand Boost Initiative"
+          }
+        },
+        {
+          "slug": "work/ecompro-seo-optimization",
+          "title": "EcomPro 搜索优化",
+          "localizedTitles": {
+            "en": "EcomPro SEO Optimization"
+          }
+        },
+        {
+          "slug": "work/luxurylaunch-campaign",
+          "title": "高端品牌发布活动",
+          "localizedTitles": {
+            "en": "LuxuryLaunch Campaign"
+          }
+        },
+        {
+          "slug": "work/growth-spark-strategy",
+          "title": "增长火花策略",
+          "localizedTitles": {
+            "en": "Growth Spark Strategy"
+          }
+        },
+        {
+          "slug": "work/brand-power-program",
+          "title": "品牌力量计划",
+          "localizedTitles": {
+            "en": "Brand Power Program"
+          }
+        },
+        {
+          "slug": "work/brand-elevation-strategy",
+          "title": "品牌提升策略",
+          "localizedTitles": {
+            "en": "Brand Elevation Strategy"
+          }
+        },
+        {
+          "slug": "work/market-impact-plan",
+          "title": "市场影响力计划",
+          "localizedTitles": {
+            "en": "Market Impact Plan"
+          }
+        },
+        {
+          "slug": "work/vision-scale-drive",
+          "title": "愿景规模增长",
+          "localizedTitles": {
+            "en": "Vision Scale Drive"
+          }
+        },
+        {
+          "slug": "blog",
+          "title": "博客",
+          "localizedTitles": {
+            "en": "Blog"
+          }
+        },
+        {
+          "slug": "blog/how-to-maximize-roi-with-data-driven-advertising",
+          "title": "如何用数据广告提升投入回报",
+          "localizedTitles": {
+            "en": "How to Maximize ROI with Data-Driven Advertising"
+          }
+        },
+        {
+          "slug": "blog/boost-roi-with-data-driven-ad-strategies",
+          "title": "以数据策略提升广告回报",
+          "localizedTitles": {
+            "en": "Boost ROI with Data-Driven Ad Strategies"
+          }
+        },
+        {
+          "slug": "blog/drive-success-with-targeted-data-ads",
+          "title": "以精准数据广告推动成果",
+          "localizedTitles": {
+            "en": "Drive Success with Targeted Data Ads"
+          }
+        },
+        {
+          "slug": "blog/leverage-data-for-higher-ad-impact",
+          "title": "用数据放大广告影响力",
+          "localizedTitles": {
+            "en": "Leverage Data for Higher Ad Impact"
+          }
+        },
+        {
+          "slug": "blog/unlock-success-via-targeted-ad-data",
+          "title": "用精准广告数据打开增长空间",
+          "localizedTitles": {
+            "en": "Unlock Success via Targeted Ad Data"
+          }
+        },
+        {
+          "slug": "blog/improve-ads-using-smart-data",
+          "title": "用有效数据改善广告表现",
+          "localizedTitles": {
+            "en": "Improve Ads Using Smart Data"
+          }
+        },
+        {
+          "slug": "blog/drive-results-using-analytics",
+          "title": "让分析带来实际成果",
+          "localizedTitles": {
+            "en": "Drive Results Using Analytics"
+          }
+        },
+        {
+          "slug": "blog/elevate-ads-with-data-insights",
+          "title": "以数据洞察提升广告价值",
+          "localizedTitles": {
+            "en": "Elevate Ads with Data Insights"
+          }
+        },
+        {
+          "slug": "pricing",
+          "title": "价格方案",
+          "localizedTitles": {
+            "en": "Pricing"
+          }
+        },
+        {
+          "slug": "team",
+          "title": "团队",
+          "localizedTitles": {
+            "en": "Team"
+          }
+        },
+        {
+          "slug": "testimonial",
+          "title": "客户评价",
+          "localizedTitles": {
+            "en": "Reviews"
+          }
+        },
+        {
+          "slug": "how-we-work",
+          "title": "工作流程",
+          "localizedTitles": {
+            "en": "How We Work"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "联系",
+          "localizedTitles": {
+            "en": "Contact"
+          }
+        },
+        {
+          "slug": "privacy-policy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy Policy"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "源码、参考设计、运行图片与字体分别说明；参考素材未取得商业再分发授权。",
+    "redistributionAllowed": false
+  },
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "framer-motion"
+  ],
+  "localizedNames": {
+    "en": "Revento · Creative Growth Agency"
+  },
+  "localizedSummaries": {
+    "en": "A navy, violet and orange digital marketing website with 33 bilingual pages, six services, eight case studies, eight articles, team, pricing, reviews and contact demos."
+  }
+}

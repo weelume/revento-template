@@ -1,0 +1,2386 @@
+{
+  "checkedAt": "2026-11-03T10:57:54.731Z",
+  "captures": [
+    {
+      "device": "desktop",
+      "page": "home",
+      "clientWidth": 1430,
+      "fonts": "loaded",
+      "heading": "让你的愿景被看见创新策略被记住成为真实影响力",
+      "images": [],
+      "scrollWidth": 1430,
+      "scrollY": 0,
+      "url": "http://localhost:3063/",
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      }
+    },
+    {
+      "device": "desktop",
+      "page": "service",
+      "clientWidth": 1430,
+      "fonts": "loaded",
+      "heading": "为品牌打造的营销服务",
+      "images": [],
+      "scrollWidth": 1430,
+      "scrollY": 0,
+      "url": "http://localhost:3063/service",
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      }
+    },
+    {
+      "device": "desktop",
+      "page": "blog",
+      "clientWidth": 1430,
+      "fonts": "loaded",
+      "heading": "灵感 洞察与实践",
+      "images": [],
+      "scrollWidth": 1430,
+      "scrollY": 0,
+      "url": "http://localhost:3063/blog",
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      }
+    },
+    {
+      "device": "desktop",
+      "page": "contact",
+      "clientWidth": 1430,
+      "fonts": "loaded",
+      "heading": "从一次交流开始",
+      "images": [],
+      "scrollWidth": 1430,
+      "scrollY": 0,
+      "url": "http://localhost:3063/contact",
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      }
+    },
+    {
+      "device": "tablet",
+      "page": "home",
+      "clientWidth": 824,
+      "fonts": "loaded",
+      "heading": "让你的愿景被看见创新策略被记住成为真实影响力",
+      "images": [],
+      "scrollWidth": 824,
+      "scrollY": 0,
+      "url": "http://localhost:3063/",
+      "viewport": {
+        "height": 1180,
+        "width": 834
+      }
+    },
+    {
+      "device": "tablet",
+      "page": "service",
+      "clientWidth": 824,
+      "fonts": "loaded",
+      "heading": "为品牌打造的营销服务",
+      "images": [],
+      "scrollWidth": 824,
+      "scrollY": 0,
+      "url": "http://localhost:3063/service",
+      "viewport": {
+        "height": 1180,
+        "width": 834
+      }
+    },
+    {
+      "device": "tablet",
+      "page": "blog",
+      "clientWidth": 824,
+      "fonts": "loaded",
+      "heading": "灵感 洞察与实践",
+      "images": [],
+      "scrollWidth": 824,
+      "scrollY": 0,
+      "url": "http://localhost:3063/blog",
+      "viewport": {
+        "height": 1180,
+        "width": 834
+      }
+    },
+    {
+      "device": "tablet",
+      "page": "contact",
+      "clientWidth": 824,
+      "fonts": "loaded",
+      "heading": "从一次交流开始",
+      "images": [],
+      "scrollWidth": 824,
+      "scrollY": 0,
+      "url": "http://localhost:3063/contact",
+      "viewport": {
+        "height": 1180,
+        "width": 834
+      }
+    },
+    {
+      "device": "mobile",
+      "page": "home",
+      "clientWidth": 380,
+      "fonts": "loaded",
+      "heading": "让你的愿景被看见创新策略被记住成为真实影响力",
+      "images": [],
+      "scrollWidth": 380,
+      "scrollY": 0,
+      "url": "http://localhost:3063/",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "device": "mobile",
+      "page": "service",
+      "clientWidth": 380,
+      "fonts": "loaded",
+      "heading": "为品牌打造的营销服务",
+      "images": [],
+      "scrollWidth": 380,
+      "scrollY": 0,
+      "url": "http://localhost:3063/service",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "device": "mobile",
+      "page": "blog",
+      "clientWidth": 380,
+      "fonts": "loaded",
+      "heading": "灵感 洞察与实践",
+      "images": [],
+      "scrollWidth": 380,
+      "scrollY": 0,
+      "url": "http://localhost:3063/blog",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "device": "mobile",
+      "page": "contact",
+      "clientWidth": 380,
+      "fonts": "loaded",
+      "heading": "从一次交流开始",
+      "images": [],
+      "scrollWidth": 380,
+      "scrollY": 0,
+      "url": "http://localhost:3063/contact",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    }
+  ],
+  "layout": [
+    {
+      "device": "narrow",
+      "path": "/",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/en",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/pricing",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/en/pricing",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/service/search-engine-optimization",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/en/service/search-engine-optimization",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/work/ecompro-seo-optimization",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/en/work/ecompro-seo-optimization",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/blog/drive-results-using-analytics",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/contact",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/team",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "narrow",
+      "path": "/testimonial",
+      "broken": [],
+      "client": 310,
+      "h": 844,
+      "scroll": 310,
+      "w": 320
+    },
+    {
+      "device": "mobile",
+      "path": "/",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/about",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/about",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/service",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/service",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/service/search-engine-optimization",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/service/search-engine-optimization",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/service/content-marketing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/service/content-marketing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/service/social-media-marketing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/service/social-media-marketing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/service/email-marketing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/service/email-marketing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/service/influencer-marketing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/service/influencer-marketing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/service/analytics-and-reporting",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/service/analytics-and-reporting",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/work",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/work/brand-boost-initiative",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work/brand-boost-initiative",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/work/ecompro-seo-optimization",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work/ecompro-seo-optimization",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/work/luxurylaunch-campaign",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work/luxurylaunch-campaign",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/blog",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/blog",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/blog/how-to-maximize-roi-with-data-driven-advertising",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/blog/how-to-maximize-roi-with-data-driven-advertising",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/blog/boost-roi-with-data-driven-ad-strategies",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/blog/boost-roi-with-data-driven-ad-strategies",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/blog/drive-success-with-targeted-data-ads",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/blog/drive-success-with-targeted-data-ads",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/blog/leverage-data-for-higher-ad-impact",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/blog/leverage-data-for-higher-ad-impact",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/blog/unlock-success-via-targeted-ad-data",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/blog/unlock-success-via-targeted-ad-data",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/blog/improve-ads-using-smart-data",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/blog/improve-ads-using-smart-data",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/blog/drive-results-using-analytics",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/blog/drive-results-using-analytics",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/blog/elevate-ads-with-data-insights",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/blog/elevate-ads-with-data-insights",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/pricing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/pricing",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/team",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/team",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/testimonial",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/testimonial",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/how-we-work",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/how-we-work",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/contact",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/contact",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/privacy-policy",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/privacy-policy",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "tablet",
+      "path": "/",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/about",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/about",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/service",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/service",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/service/search-engine-optimization",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/service/search-engine-optimization",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/service/content-marketing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/service/content-marketing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/service/social-media-marketing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/service/social-media-marketing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/service/email-marketing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/service/email-marketing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/service/influencer-marketing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/service/influencer-marketing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/service/analytics-and-reporting",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/service/analytics-and-reporting",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/work",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/work/brand-boost-initiative",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work/brand-boost-initiative",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/work/ecompro-seo-optimization",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work/ecompro-seo-optimization",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/work/luxurylaunch-campaign",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work/luxurylaunch-campaign",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/blog",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/blog",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/blog/how-to-maximize-roi-with-data-driven-advertising",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/blog/how-to-maximize-roi-with-data-driven-advertising",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/blog/boost-roi-with-data-driven-ad-strategies",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/blog/boost-roi-with-data-driven-ad-strategies",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/blog/drive-success-with-targeted-data-ads",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/blog/drive-success-with-targeted-data-ads",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/blog/leverage-data-for-higher-ad-impact",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/blog/leverage-data-for-higher-ad-impact",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/blog/unlock-success-via-targeted-ad-data",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/blog/unlock-success-via-targeted-ad-data",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/blog/improve-ads-using-smart-data",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/blog/improve-ads-using-smart-data",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/blog/drive-results-using-analytics",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/blog/drive-results-using-analytics",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/blog/elevate-ads-with-data-insights",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/blog/elevate-ads-with-data-insights",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/pricing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/pricing",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/team",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/team",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/testimonial",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/testimonial",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/how-we-work",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/how-we-work",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/contact",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/contact",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/privacy-policy",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/privacy-policy",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "mobile",
+      "path": "/work/growth-spark-strategy",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work/growth-spark-strategy",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/work/brand-power-program",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work/brand-power-program",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/work/brand-elevation-strategy",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work/brand-elevation-strategy",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/work/market-impact-plan",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work/market-impact-plan",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/work/vision-scale-drive",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work/vision-scale-drive",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/work",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "tablet",
+      "path": "/work/growth-spark-strategy",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work/growth-spark-strategy",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/work/brand-power-program",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work/brand-power-program",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/work/brand-elevation-strategy",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work/brand-elevation-strategy",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/work/market-impact-plan",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work/market-impact-plan",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/work/vision-scale-drive",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work/vision-scale-drive",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/work",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "desktop",
+      "path": "/",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/about",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/about",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/service",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/service",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/service/search-engine-optimization",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/service/search-engine-optimization",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/service/content-marketing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/service/content-marketing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/service/social-media-marketing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/service/social-media-marketing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/service/email-marketing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/service/email-marketing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/service/influencer-marketing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/service/influencer-marketing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/service/analytics-and-reporting",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/service/analytics-and-reporting",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/work",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/work/brand-boost-initiative",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work/brand-boost-initiative",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/work/ecompro-seo-optimization",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work/ecompro-seo-optimization",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/work/luxurylaunch-campaign",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work/luxurylaunch-campaign",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/work/growth-spark-strategy",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work/growth-spark-strategy",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/work/brand-power-program",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work/brand-power-program",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/work/brand-elevation-strategy",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work/brand-elevation-strategy",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/work/market-impact-plan",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work/market-impact-plan",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/work/vision-scale-drive",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work/vision-scale-drive",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/blog",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/blog",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/blog/how-to-maximize-roi-with-data-driven-advertising",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/blog/how-to-maximize-roi-with-data-driven-advertising",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/blog/boost-roi-with-data-driven-ad-strategies",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/blog/boost-roi-with-data-driven-ad-strategies",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/blog/drive-success-with-targeted-data-ads",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/blog/drive-success-with-targeted-data-ads",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/blog/leverage-data-for-higher-ad-impact",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/blog/leverage-data-for-higher-ad-impact",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/blog/unlock-success-via-targeted-ad-data",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/blog/unlock-success-via-targeted-ad-data",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/blog/improve-ads-using-smart-data",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/blog/improve-ads-using-smart-data",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/blog/drive-results-using-analytics",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/blog/drive-results-using-analytics",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/blog/elevate-ads-with-data-insights",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/blog/elevate-ads-with-data-insights",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/pricing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/pricing",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/team",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/team",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/testimonial",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/testimonial",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/how-we-work",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/how-we-work",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/contact",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/contact",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/privacy-policy",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/privacy-policy",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "mobile",
+      "path": "/work",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "mobile",
+      "path": "/en/work",
+      "broken": [],
+      "client": 380,
+      "h": 844,
+      "scroll": 380,
+      "w": 390
+    },
+    {
+      "device": "tablet",
+      "path": "/work",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "tablet",
+      "path": "/en/work",
+      "broken": [],
+      "client": 824,
+      "h": 1180,
+      "scroll": 824,
+      "w": 834
+    },
+    {
+      "device": "desktop",
+      "path": "/work",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "/en/work",
+      "broken": [],
+      "client": 1430,
+      "h": 1000,
+      "scroll": 1430,
+      "w": 1440
+    }
+  ],
+  "interactions": [
+    {
+      "check": "mobile-menu-open",
+      "state": {
+        "dialog": true,
+        "focus": "首页",
+        "lock": "hidden"
+      }
+    },
+    {
+      "check": "mobile-menu-escape",
+      "state": {
+        "focus": "打开导航菜单",
+        "lock": ""
+      }
+    },
+    {
+      "check": "contact-local-only",
+      "status": "校验通过。这是演示表单，信息尚未发送或保存。"
+    },
+    {
+      "check": "faq",
+      "state": [
+        {
+          "open": "false",
+          "text": "Revento 提供哪些服务+"
+        },
+        {
+          "open": "true",
+          "text": "如何衡量项目成果−"
+        },
+        {
+          "open": "false",
+          "text": "如何开始合作+"
+        },
+        {
+          "open": "false",
+          "text": "是否提供持续支持+"
+        }
+      ]
+    },
+    {
+      "check": "blog-initial",
+      "count": 4
+    },
+    {
+      "check": "blog-loaded",
+      "count": 8,
+      "button": 0
+    },
+    {
+      "check": "locale-preserves-location",
+      "url": "http://localhost:3063/en/blog?preview=motion#articles"
+    },
+    {
+      "check": "process-second",
+      "state": [
+        {
+          "expanded": "true",
+          "image": "/templates/revento/assets/W98dxSedZZzAFevUxHy9jSRoBk.png",
+          "title": "1.了解你的业务从品牌、行业和受众出发，理解挑战、目标与独特价值，为后续工作建立清晰基础。"
+        },
+        {
+          "expanded": "false",
+          "title": "2.策略规划与创意执行明确业务目标与传播方向，把品牌价值转化为有策略的创意与执行计划。"
+        },
+        {
+          "expanded": "false",
+          "title": "3.协作与持续优化通过洞察、沟通与反馈持续迭代，让策略贴近品牌、市场与受众的真实需要。"
+        },
+        {
+          "expanded": "false",
+          "title": "4.交付成果与透明报告围绕事先约定的目标整理成果与数据，明确有效经验和下一阶段的改进方向。"
+        }
+      ]
+    },
+    {
+      "check": "work-load-more",
+      "count": 8
+    },
+    {
+      "check": "carousel-pointer-regression",
+      "url": "http://localhost:3063/work",
+      "sample": {
+        "capturedAt": "2026-11-03T10:52:16.628Z",
+        "hidden": false,
+        "region": [
+          {
+            "bottom": 544.1041660308838,
+            "focus": true,
+            "label": "作品纵向展示",
+            "progress": "3 / 5",
+            "top": -8.895833969116211,
+            "transform": "matrix(1, 0, 0, 1, 0, -3405.23)"
+          }
+        ],
+        "y": 656.6666870117188
+      },
+      "hitChecks": [
+        {
+          "hitButton": true,
+          "hitTag": "BUTTON",
+          "label": "上一组"
+        },
+        {
+          "hitButton": true,
+          "hitTag": "BUTTON",
+          "label": "下一组"
+        }
+      ]
+    },
+    {
+      "check": "process-second-recheck",
+      "verified": true,
+      "image": "Jiu8RFow3ViqEyvCVJYIo4gtHM.png",
+      "note": "第一次点击早于水合，初始化后重验通过"
+    }
+  ],
+  "carousel": [
+    {
+      "capturedAt": "2026-11-03T10:48:15.779Z",
+      "hidden": false,
+      "region": [
+        {
+          "bottom": 326.1041564941406,
+          "focus": false,
+          "label": "作品纵向展示",
+          "progress": "5 / 5",
+          "top": -226.89584350585935,
+          "transform": "matrix(1, 0, 0, 1, 0, -4500)"
+        }
+      ],
+      "y": 874.6666870117188
+    },
+    {
+      "capturedAt": "2026-11-03T10:49:26.147Z",
+      "hidden": false,
+      "region": [
+        {
+          "bottom": 326.1041564941406,
+          "focus": false,
+          "label": "作品纵向展示",
+          "progress": "3 / 5",
+          "top": -226.89584350585935,
+          "transform": "matrix(1, 0, 0, 1, 0, -3500)"
+        }
+      ],
+      "y": 874.6666870117188
+    },
+    {
+      "capturedAt": "2026-11-03T10:53:15.215Z",
+      "hidden": false,
+      "region": [
+        {
+          "bottom": 544.1041660308838,
+          "focus": true,
+          "label": "作品纵向展示",
+          "progress": "4 / 5",
+          "top": -8.895833969116211,
+          "transform": "matrix(1, 0, 0, 1, 0, -3561.39)"
+        }
+      ],
+      "y": 656.6666870117188
+    },
+    {
+      "capturedAt": "2026-11-03T10:53:39.724Z",
+      "hidden": false,
+      "region": [
+        {
+          "bottom": 544.1041660308838,
+          "focus": true,
+          "label": "作品纵向展示",
+          "progress": "4 / 5",
+          "top": -8.895833969116211,
+          "transform": "matrix(1, 0, 0, 1, 0, -4000)"
+        }
+      ],
+      "y": 656.6666870117188
+    },
+    {
+      "capturedAt": "2026-11-03T10:53:39.811Z",
+      "hidden": false,
+      "region": [
+        {
+          "bottom": 1200.7708740234375,
+          "focus": false,
+          "label": "作品纵向展示",
+          "progress": "4 / 5",
+          "top": 647.7708740234375,
+          "transform": "matrix(1, 0, 0, 1, 0, -4000)"
+        }
+      ],
+      "y": 0
+    },
+    {
+      "capturedAt": "2026-11-03T10:54:54.815Z",
+      "hidden": false,
+      "region": [
+        {
+          "bottom": 1200.7708740234375,
+          "focus": false,
+          "label": "作品纵向展示",
+          "progress": "2 / 5",
+          "top": 647.7708740234375,
+          "transform": "matrix(1, 0, 0, 1, 0, -3000)"
+        }
+      ],
+      "y": 0
+    }
+  ],
+  "regressions": [
+    {
+      "issue": "纵向作品展示鼠标按钮被图片覆盖",
+      "cause": "新增展示区缺少布局与裁切样式，图片覆盖了控件；只检查 HTTP 和溢出未能发现",
+      "before": "按钮中心 elementFromPoint 返回 IMG；点击导航到案例详情",
+      "after": "补齐主题中展示布局与裁切，按钮中心返回 BUTTON，点击仍在 /work，计数推进",
+      "verification": "真实浏览器命中检查、鼠标点击、键盘、焦点暂停恢复；仍需补齐全部设备动效对照"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+export type Copy={zh:string;en:string}
+export const text=(zh:string,en:string):Copy=>({zh,en})
+export const brand={name:text('Revento','Revento'),email:'info@revento.com',support:'support@revento.com',phone:'0123-456-789',phoneSecondary:'0123-4567-890',address:text('美国旧金山 Innovation Drive 123 号 400 室','123 Innovation Drive, Suite 400, San Francisco, CA 94111, USA'),tagline:text('以创意与策略 让增长发生','Reach, inspire, and deliver results.')}
+export const asset=(name:string)=>'/templates/revento/assets/'+name
+export const art={spiral:'BCq0p16QtiLSy6fx05CaUoQbwfM.png',portrait:'YZ4YVYvxYcrDZTkwymDWD8arcwI.png',badge:'YnrgvKUGMeimEqrFeLCn9dudPjg.png',heart:'AeFvXhaWzVGf2nW55xquWsfteBM.svg',plus:'skbUtvcpmTUqWb39ckLj1ra7TE.svg',star:'3UclJG1nnrRt1fIFjY95idlaaWc.svg',smallStar:'Mfur6LVh1A1lVv5s9OYSbdNovE.svg',crown:'w74BtURgAfP02oAyj5vLEQq1KcY.svg',why:'lRUVMB1hqLBKktxpxOV2NWUMVk.png',mission:'i6k5InXVuu24cuLoN6MNWhPYWIg.png',aboutA:'48K0bZ9Wpm8Ib7nETZ7zwLL0lUQ.png',aboutB:'UjCwAEYJU4MvzSB8Wsy8rJzWzlk.png',testimonial:'Ftw2WR3BA7Qta1YZhwxUYSOSJ6o.png',notFound:'n3zeduqnRmmEguYbtQNwqQz7GY.png'}

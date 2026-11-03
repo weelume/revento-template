@@ -1,0 +1,218 @@
+[
+  {
+    "device": "desktop",
+    "page": "home",
+    "clientWidth": 1430,
+    "fonts": "loaded",
+    "heading": "让你的愿景被看见创新策略被记住成为真实影响力",
+    "images": [],
+    "scrollWidth": 1430,
+    "scrollY": 0,
+    "url": "http://localhost:3063/",
+    "viewport": {
+      "height": 1000,
+      "width": 1440
+    },
+    "path": "assets/desktop-home.webp",
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "device": "desktop",
+    "page": "service",
+    "clientWidth": 1430,
+    "fonts": "loaded",
+    "heading": "为品牌打造的营销服务",
+    "images": [],
+    "scrollWidth": 1430,
+    "scrollY": 0,
+    "url": "http://localhost:3063/service",
+    "viewport": {
+      "height": 1000,
+      "width": 1440
+    },
+    "path": "assets/desktop-service.webp",
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "device": "desktop",
+    "page": "blog",
+    "clientWidth": 1430,
+    "fonts": "loaded",
+    "heading": "灵感 洞察与实践",
+    "images": [],
+    "scrollWidth": 1430,
+    "scrollY": 0,
+    "url": "http://localhost:3063/blog",
+    "viewport": {
+      "height": 1000,
+      "width": 1440
+    },
+    "path": "assets/desktop-blog.webp",
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "device": "desktop",
+    "page": "contact",
+    "clientWidth": 1430,
+    "fonts": "loaded",
+    "heading": "从一次交流开始",
+    "images": [],
+    "scrollWidth": 1430,
+    "scrollY": 0,
+    "url": "http://localhost:3063/contact",
+    "viewport": {
+      "height": 1000,
+      "width": 1440
+    },
+    "path": "assets/desktop-contact.webp",
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "device": "tablet",
+    "page": "home",
+    "clientWidth": 824,
+    "fonts": "loaded",
+    "heading": "让你的愿景被看见创新策略被记住成为真实影响力",
+    "images": [],
+    "scrollWidth": 824,
+    "scrollY": 0,
+    "url": "http://localhost:3063/",
+    "viewport": {
+      "height": 1180,
+      "width": 834
+    },
+    "path": "assets/tablet-home.webp",
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "device": "tablet",
+    "page": "service",
+    "clientWidth": 824,
+    "fonts": "loaded",
+    "heading": "为品牌打造的营销服务",
+    "images": [],
+    "scrollWidth": 824,
+    "scrollY": 0,
+    "url": "http://localhost:3063/service",
+    "viewport": {
+      "height": 1180,
+      "width": 834
+    },
+    "path": "assets/tablet-service.webp",
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "device": "tablet",
+    "page": "blog",
+    "clientWidth": 824,
+    "fonts": "loaded",
+    "heading": "灵感 洞察与实践",
+    "images": [],
+    "scrollWidth": 824,
+    "scrollY": 0,
+    "url": "http://localhost:3063/blog",
+    "viewport": {
+      "height": 1180,
+      "width": 834
+    },
+    "path": "assets/tablet-blog.webp",
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "device": "tablet",
+    "page": "contact",
+    "clientWidth": 824,
+    "fonts": "loaded",
+    "heading": "从一次交流开始",
+    "images": [],
+    "scrollWidth": 824,
+    "scrollY": 0,
+    "url": "http://localhost:3063/contact",
+    "viewport": {
+      "height": 1180,
+      "width": 834
+    },
+    "path": "assets/tablet-contact.webp",
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "device": "mobile",
+    "page": "home",
+    "clientWidth": 380,
+    "fonts": "loaded",
+    "heading": "让你的愿景被看见创新策略被记住成为真实影响力",
+    "images": [],
+    "scrollWidth": 380,
+    "scrollY": 0,
+    "url": "http://localhost:3063/",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "path": "assets/mobile-home.webp",
+    "width": 380,
+    "height": 822
+  },
+  {
+    "device": "mobile",
+    "page": "service",
+    "clientWidth": 380,
+    "fonts": "loaded",
+    "heading": "为品牌打造的营销服务",
+    "images": [],
+    "scrollWidth": 380,
+    "scrollY": 0,
+    "url": "http://localhost:3063/service",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "path": "assets/mobile-service.webp",
+    "width": 380,
+    "height": 822
+  },
+  {
+    "device": "mobile",
+    "page": "blog",
+    "clientWidth": 380,
+    "fonts": "loaded",
+    "heading": "灵感 洞察与实践",
+    "images": [],
+    "scrollWidth": 380,
+    "scrollY": 0,
+    "url": "http://localhost:3063/blog",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "path": "assets/mobile-blog.webp",
+    "width": 380,
+    "height": 822
+  },
+  {
+    "device": "mobile",
+    "page": "contact",
+    "clientWidth": 380,
+    "fonts": "loaded",
+    "heading": "从一次交流开始",
+    "images": [],
+    "scrollWidth": 380,
+    "scrollY": 0,
+    "url": "http://localhost:3063/contact",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "path": "assets/mobile-contact.webp",
+    "width": 380,
+    "height": 822
+  }
+]
